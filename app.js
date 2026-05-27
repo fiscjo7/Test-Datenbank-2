@@ -1,4 +1,5 @@
-/** @typedef {{ SCHLUESSEL_BA_M: string, Sprache: string, URL: string }} ManualEntry */
+/** @typedef {{ merkmal: string, schluessel_ba_m: number|string, sprache: string, link: string }} RawManualEntry */
+/** @typedef {{ key: string, language: string, url: string }} ManualEntry */
 
 /** @type {ManualEntry[]} */
 let entries = [];
@@ -11,8 +12,13 @@ const languageSelect = document.getElementById("language-select");
 const openButton = document.getElementById("open-button");
 
 const sortLocale = (a, b) => a.localeCompare(b, "de");
-
 const uniqueSorted = (values) => [...new Set(values)].sort(sortLocale);
+
+const normalizeEntry = (raw) => ({
+  key: String(raw.schluessel_ba_m),
+  language: String(raw.sprache),
+  url: String(raw.link),
+});
 
 const setError = (message) => {
   if (!message) {
@@ -20,7 +26,6 @@ const setError = (message) => {
     errorBox.textContent = "";
     return;
   }
-
   errorBox.textContent = message;
   errorBox.classList.remove("hidden");
 };
@@ -39,12 +44,8 @@ const populateSelect = (select, values) => {
   });
 };
 
-const getLanguagesByKey = (key) => uniqueSorted(entries.filter((entry) => entry.SCHLUESSEL_BA_M === key).map((entry) => entry.Sprache));
-
-const getUrlBySelection = (key, language) => {
-  const match = entries.find((entry) => entry.SCHLUESSEL_BA_M === key && entry.Sprache === language);
-  return match ? match.URL : null;
-};
+const getLanguagesByKey = (key) => uniqueSorted(entries.filter((entry) => entry.key === key).map((entry) => entry.language));
+const getUrlBySelection = (key, language) => entries.find((entry) => entry.key === key && entry.language === language)?.url ?? null;
 
 const handleKeyChange = () => {
   const key = keySelect.value;
@@ -69,19 +70,11 @@ const handleKeyChange = () => {
 };
 
 const handleOpen = () => {
-  const key = keySelect.value;
-  const language = languageSelect.value;
-
-  if (!key || !language) {
-    return;
-  }
-
-  const url = getUrlBySelection(key, language);
+  const url = getUrlBySelection(keySelect.value, languageSelect.value);
   if (!url) {
     setError("Kein Link für die gewählte Kombination gefunden.");
     return;
   }
-
   setError("");
   window.open(url, "_blank", "noopener,noreferrer");
 };
@@ -89,15 +82,13 @@ const handleOpen = () => {
 const init = async () => {
   try {
     const response = await fetch("./data/Datenbank_BA.json", { cache: "no-store" });
-    if (!response.ok) {
-      throw new Error("Die JSON-Daten konnten nicht geladen werden.");
-    }
+    if (!response.ok) throw new Error("Die JSON-Daten konnten nicht geladen werden.");
 
-    /** @type {ManualEntry[]} */
+    /** @type {RawManualEntry[]} */
     const raw = await response.json();
-    entries = Array.isArray(raw) ? raw : [];
+    entries = Array.isArray(raw) ? raw.map(normalizeEntry) : [];
 
-    const keys = uniqueSorted(entries.map((entry) => entry.SCHLUESSEL_BA_M));
+    const keys = uniqueSorted(entries.map((entry) => entry.key));
     populateSelect(keySelect, keys);
 
     statusBox.classList.add("hidden");

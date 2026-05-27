@@ -2,28 +2,25 @@
 
 ## Schnellstart (ohne Build-Tooling)
 
-Du kannst die App direkt mit Python starten:
-
 ```bash
 python3 -m http.server 8000
 ```
 
-Dann im Browser öffnen:
+Dann im Browser öffnen: `http://localhost:8000`
 
-- `http://localhost:8000`
+## JSON-Format
 
-## Funktionsweise
+Die Datei `data/Datenbank_BA.json` nutzt dieses Format:
 
-- Die Daten werden aus `data/Datenbank_BA.json` geladen.
-- Dropdown 1 zeigt deduplizierte + alphabetisch sortierte `SCHLUESSEL_BA_M`.
-- Dropdown 2 zeigt passende, ebenfalls deduplizierte + alphabetisch sortierte Sprachen.
-- Der Button **Anleitung öffnen** bleibt deaktiviert, bis beide Auswahlen gültig sind.
-- Die URL wird in einem neuen Tab geöffnet.
+- `merkmal` (z. B. `SCHLUESSEL_BA_M`)
+- `schluessel_ba_m` (Nummer oder String)
+- `sprache` (z. B. `DE`, `EN`)
+- `link` (URL)
 
-## Datenquelle
+Die App normalisiert intern auf:
 
-Erwartete Felder pro Eintrag:
+- `key`
+- `language`
+- `url`
 
-- `SCHLUESSEL_BA_M`
-- `Sprache`
-- `URL`
+und dedupliziert/sortiert Schlüssel und Sprachen alphabetisch.
