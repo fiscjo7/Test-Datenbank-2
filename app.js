@@ -14,6 +14,12 @@ const openButton = document.getElementById("open-button");
 const sortLocale = (a, b) => a.localeCompare(b, "de");
 const uniqueSorted = (values) => [...new Set(values)].sort(sortLocale);
 
+const getPrefilledKeyFromPath = () => {
+  const segments = window.location.pathname.split("/").filter(Boolean);
+  const lastSegment = segments.at(-1) ?? "";
+  return /^\d+$/.test(lastSegment) ? lastSegment : "";
+};
+
 const normalizeEntry = (raw) => ({
   key: String(raw.schluessel_ba_m),
   language: String(raw.sprache),
@@ -90,6 +96,12 @@ const init = async () => {
 
     const keys = uniqueSorted(entries.map((entry) => entry.key));
     populateSelect(keySelect, keys);
+
+    const prefilledKey = getPrefilledKeyFromPath();
+    if (prefilledKey && keys.includes(prefilledKey)) {
+      keySelect.value = prefilledKey;
+      handleKeyChange();
+    }
 
     statusBox.classList.add("hidden");
     controls.classList.remove("hidden");

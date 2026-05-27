@@ -24,3 +24,8 @@ Die App normalisiert intern auf:
 - `url`
 
 und dedupliziert/sortiert Schlüssel und Sprachen alphabetisch.
+
+
+## URL-basierte Vorauswahl
+
+Wenn in der URL nach dem letzten `/` eine Zahl steht (z. B. `.../1006`), wird dieser Wert automatisch im Dropdown `SCHLUESSEL_BA_M` vorausgewählt (falls vorhanden).
