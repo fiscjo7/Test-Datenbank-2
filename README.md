@@ -10,7 +10,9 @@
    ```bash
    npm run dev
    ```
-3. Anwendung öffnen: `http://localhost:3000`
+3. Anwendung öffnen:
+   - Lokal: `http://localhost:3000`
+   - In Codespaces: im Tab **Ports** den Port `3000` öffnen
 
 ## Datenquelle
 
@@ -23,3 +25,7 @@ Erwartete Struktur pro Eintrag:
 - `SCHLUESSEL_BA_M`
 - `Sprache`
 - `URL`
+
+## Hinweis zu Next.js-Konfiguration
+
+Für Next.js wird `next.config.mjs` verwendet. `next.config.ts` wird von Next.js beim Start **nicht** unterstützt.
