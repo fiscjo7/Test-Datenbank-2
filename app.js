@@ -14,7 +14,14 @@ const openButton = document.getElementById("open-button");
 const sortLocale = (a, b) => a.localeCompare(b, "de");
 const uniqueSorted = (values) => [...new Set(values)].sort(sortLocale);
 
-const getPrefilledKeyFromPath = () => {
+const getPrefilledKeyFromUrl = () => {
+  const params = new URLSearchParams(window.location.search);
+  const fromQuery = params.get("key") ?? "";
+  if (/^\d+$/.test(fromQuery)) return fromQuery;
+
+  const hashValue = window.location.hash.replace(/^#/, "");
+  if (/^\d+$/.test(hashValue)) return hashValue;
+
   const segments = window.location.pathname.split("/").filter(Boolean);
   const lastSegment = segments.at(-1) ?? "";
   return /^\d+$/.test(lastSegment) ? lastSegment : "";
@@ -97,7 +104,7 @@ const init = async () => {
     const keys = uniqueSorted(entries.map((entry) => entry.key));
     populateSelect(keySelect, keys);
 
-    const prefilledKey = getPrefilledKeyFromPath();
+    const prefilledKey = getPrefilledKeyFromUrl();
     if (prefilledKey && keys.includes(prefilledKey)) {
       keySelect.value = prefilledKey;
       handleKeyChange();
