@@ -1,0 +1,9 @@
+[
+  { "SCHLUESSEL_BA_M": "A100", "Sprache": "Deutsch", "URL": "https://example.com/a100/de" },
+  { "SCHLUESSEL_BA_M": "A100", "Sprache": "English", "URL": "https://example.com/a100/en" },
+  { "SCHLUESSEL_BA_M": "A100", "Sprache": "Français", "URL": "https://example.com/a100/fr" },
+  { "SCHLUESSEL_BA_M": "B200", "Sprache": "Deutsch", "URL": "https://example.com/b200/de" },
+  { "SCHLUESSEL_BA_M": "B200", "Sprache": "Italiano", "URL": "https://example.com/b200/it" },
+  { "SCHLUESSEL_BA_M": "C300", "Sprache": "Español", "URL": "https://example.com/c300/es" },
+  { "SCHLUESSEL_BA_M": "C300", "Sprache": "Español", "URL": "https://example.com/c300/es" }
+]
