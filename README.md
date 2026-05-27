@@ -1,31 +1,29 @@
 # Bedienungsanleitungen Web-App
 
-## Setup
+## Schnellstart (ohne Build-Tooling)
 
-1. Abhängigkeiten installieren:
-   ```bash
-   npm install
-   ```
-2. Entwicklungsserver starten:
-   ```bash
-   npm run dev
-   ```
-3. Anwendung öffnen:
-   - Lokal: `http://localhost:3000`
-   - In Codespaces: im Tab **Ports** den Port `3000` öffnen
+Du kannst die App direkt mit Python starten:
+
+```bash
+python3 -m http.server 8000
+```
+
+Dann im Browser öffnen:
+
+- `http://localhost:8000`
+
+## Funktionsweise
+
+- Die Daten werden aus `data/Datenbank_BA.json` geladen.
+- Dropdown 1 zeigt deduplizierte + alphabetisch sortierte `SCHLUESSEL_BA_M`.
+- Dropdown 2 zeigt passende, ebenfalls deduplizierte + alphabetisch sortierte Sprachen.
+- Der Button **Anleitung öffnen** bleibt deaktiviert, bis beide Auswahlen gültig sind.
+- Die URL wird in einem neuen Tab geöffnet.
 
 ## Datenquelle
 
-Die zentrale JSON-Datenbank liegt unter:
-
-- `data/Datenbank_BA.json`
-
-Erwartete Struktur pro Eintrag:
+Erwartete Felder pro Eintrag:
 
 - `SCHLUESSEL_BA_M`
 - `Sprache`
 - `URL`
-
-## Hinweis zu Next.js-Konfiguration
-
-Für Next.js wird `next.config.mjs` verwendet. `next.config.ts` wird von Next.js beim Start **nicht** unterstützt.
