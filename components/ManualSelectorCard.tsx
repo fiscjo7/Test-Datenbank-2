@@ -1,7 +1,13 @@
 "use client";
 
 import { useEffect, useMemo, useState } from "react";
-import { getLanguagesByKey, getManualData, getUniqueSortedKeys, getUrlBySelection } from "@/services/manualService";
+import {
+  getComponentNameByKey,
+  getLanguagesByKey,
+  getManualData,
+  getUniqueSortedKeys,
+  getUrlBySelection,
+} from "@/services/manualService";
 
 export const ManualSelectorCard = () => {
   const [selectedKey, setSelectedKey] = useState("");
@@ -12,6 +18,7 @@ export const ManualSelectorCard = () => {
   const entries = useMemo(() => getManualData(), []);
   const keys = useMemo(() => getUniqueSortedKeys(entries), [entries]);
   const languages = useMemo(() => getLanguagesByKey(entries, selectedKey), [entries, selectedKey]);
+  const componentName = useMemo(() => getComponentNameByKey(entries, selectedKey), [entries, selectedKey]);
 
   useEffect(() => {
     setLoading(false);
@@ -71,6 +78,20 @@ export const ManualSelectorCard = () => {
                 </option>
               ))}
             </select>
+          </div>
+
+          <div>
+            <label htmlFor="component-name" className="mb-2 block text-sm font-medium text-slate-700">
+              Komponentenname
+            </label>
+            <input
+              id="component-name"
+              type="text"
+              value={componentName || "Bitte zuerst einen Schlüssel auswählen"}
+              readOnly
+              disabled
+              className="h-12 w-full rounded-lg border border-slate-300 px-4 text-base text-slate-600 focus:outline-none disabled:cursor-not-allowed disabled:bg-slate-100"
+            />
           </div>
 
           <div>
