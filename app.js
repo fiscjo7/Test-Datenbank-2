@@ -1,5 +1,5 @@
-/** @typedef {{ merkmal: string, schluessel_ba_m: number|string, sprache: string, link: string }} RawManualEntry */
-/** @typedef {{ key: string, language: string, url: string }} ManualEntry */
+/** @typedef {{ merkmal: string, schluessel_ba_m: number|string, komponentenname: string, sprache: string, link: string }} RawManualEntry */
+/** @typedef {{ key: string, componentName: string, language: string, url: string }} ManualEntry */
 
 /** @type {ManualEntry[]} */
 let entries = [];
@@ -8,6 +8,7 @@ const statusBox = document.getElementById("status");
 const controls = document.getElementById("controls");
 const errorBox = document.getElementById("error-box");
 const keySelect = document.getElementById("key-select");
+const componentNameInput = document.getElementById("component-name");
 const languageSelect = document.getElementById("language-select");
 const openButton = document.getElementById("open-button");
 
@@ -29,6 +30,7 @@ const getPrefilledKeyFromUrl = () => {
 
 const normalizeEntry = (raw) => ({
   key: String(raw.schluessel_ba_m),
+  componentName: String(raw.komponentenname),
   language: String(raw.sprache),
   url: String(raw.link),
 });
@@ -58,6 +60,7 @@ const populateSelect = (select, values) => {
 };
 
 const getLanguagesByKey = (key) => uniqueSorted(entries.filter((entry) => entry.key === key).map((entry) => entry.language));
+const getComponentNameByKey = (key) => entries.find((entry) => entry.key === key)?.componentName ?? "";
 const getUrlBySelection = (key, language) => entries.find((entry) => entry.key === key && entry.language === language)?.url ?? null;
 
 const handleKeyChange = () => {
@@ -65,11 +68,14 @@ const handleKeyChange = () => {
   setError("");
 
   if (!key) {
+    componentNameInput.value = "Bitte zuerst einen Schlüssel auswählen";
     populateSelect(languageSelect, []);
     languageSelect.disabled = true;
     updateButtonState();
     return;
   }
+
+  componentNameInput.value = getComponentNameByKey(key) || "";
 
   const languages = getLanguagesByKey(key);
   populateSelect(languageSelect, languages);
