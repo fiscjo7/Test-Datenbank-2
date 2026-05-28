@@ -42,6 +42,9 @@ export const ManualSelectorCard = () => {
 
   return (
     <div className="w-full max-w-2xl rounded-2xl bg-white p-6 shadow-xl sm:p-8">
+      <div className="mb-6 flex justify-center">
+        <img src="/gea-logo.svg" alt="GEA Logo" className="h-12 w-auto sm:h-14" />
+      </div>
       <h1 className="mb-2 text-2xl font-semibold text-slate-900 sm:text-3xl">Bedienungsanleitungen finden</h1>
       <p className="mb-6 text-sm text-slate-600 sm:text-base">
         Wähle einen Schlüssel und anschließend eine Sprache, um die passende Anleitung zu öffnen.

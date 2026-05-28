@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 310 85" role="img" aria-labelledby="title desc">
+  <title id="title">GEA Logo</title>
+  <desc id="desc">Stylized GEA wordmark in blue.</desc>
+  <g fill="#0019b8">
+    <path d="M8 46c0-24 20-41 47-41 15 0 27 4 36 12l-10 11c-6-5-14-8-24-8-18 0-31 11-33 26h48v13H48v-13h24v26c-8 5-18 8-30 8C22 80 8 66 8 46z"/>
+    <path d="M97 7h80v15h-31v56h-18V22H97V7z"/>
+    <path d="M174 78L208 7h18l34 71h-19l-7-15h-34l-7 15h-19zm31-29h22l-11-24-11 24z"/>
+  </g>
+</svg>

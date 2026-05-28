@@ -41,3 +41,8 @@ Nutze stattdessen eine dieser URL-Varianten:
 - Hash: `http://localhost:8000/#1006`
 
 Beide Varianten wählen `SCHLUESSEL_BA_M` automatisch vor.
+
+
+## Logo
+
+Das GEA-Logo wird mittig oben in der Karte angezeigt (`public/gea-logo.svg`).
