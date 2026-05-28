@@ -1,0 +1,20 @@
+[
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": 1006,
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/247740/"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": 1006,
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/247739/"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": 2001,
+    "sprache": "DE",
+    "link": "https://example.com/manuals/2001/de"
+  }
+]
