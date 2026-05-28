@@ -25,18 +25,20 @@ export const ManualSelectorCard = () => {
   }, []);
 
   useEffect(() => {
-    if (typeof window === "undefined") return;
+    if (typeof window === "undefined") {
+      return;
+    }
 
-    const params = new URLSearchParams(window.location.search);
-    const fromQuery = (params.get("key") ?? "").trim();
-    const fromHash = window.location.hash.replace(/^#/, "").trim();
-    const segments = window.location.pathname.split("/").filter(Boolean);
-    const fromPath = (segments.at(-1) ?? "").trim();
+    const url = new URL(window.location.href);
+    const urlKey = url.searchParams.get("key")?.trim();
 
-    const candidate = [fromQuery, fromHash, fromPath].find((value) => /^\d+$/.test(value)) ?? "";
-    if (!candidate || !keys.includes(candidate)) return;
+    if (!urlKey) {
+      return;
+    }
 
-    setSelectedKey(candidate);
+    if (keys.includes(urlKey)) {
+      setSelectedKey(urlKey);
+    }
   }, [keys]);
 
   useEffect(() => {
@@ -69,14 +71,14 @@ export const ManualSelectorCard = () => {
       </div>
       <h1 className="mb-2 text-2xl font-semibold text-slate-900 sm:text-3xl">Bedienungsanleitungen finden</h1>
       <p className="mb-6 text-sm text-slate-600 sm:text-base">
-        Wähle einen Schlüssel und anschließend eine Sprache, um die passende Anleitung zu öffnen.
+        Der Schlüssel wird aus der URL übernommen. Wähle anschließend eine Sprache, um die passende Anleitung zu öffnen.
       </p>
 
       {loading ? (
         <div className="rounded-lg border border-slate-200 bg-slate-50 p-4 text-slate-700">Daten werden geladen…</div>
       ) : (
         <div className="space-y-4">
-          <div>
+          <div className="hidden">
             <label htmlFor="key-select" className="mb-2 block text-sm font-medium text-slate-700">
               SCHLUESSEL_BA_M
             </label>
