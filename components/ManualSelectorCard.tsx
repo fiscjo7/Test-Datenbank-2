@@ -1,7 +1,13 @@
 "use client";
 
 import { useEffect, useMemo, useState } from "react";
-import { getLanguagesByKey, getManualData, getUniqueSortedKeys, getUrlBySelection } from "@/services/manualService";
+import {
+  getComponentNameByKey,
+  getLanguagesByKey,
+  getManualData,
+  getUniqueSortedKeys,
+  getUrlBySelection,
+} from "@/services/manualService";
 
 export const ManualSelectorCard = () => {
   const [selectedKey, setSelectedKey] = useState("");
@@ -12,10 +18,21 @@ export const ManualSelectorCard = () => {
   const entries = useMemo(() => getManualData(), []);
   const keys = useMemo(() => getUniqueSortedKeys(entries), [entries]);
   const languages = useMemo(() => getLanguagesByKey(entries, selectedKey), [entries, selectedKey]);
+  const componentName = useMemo(() => getComponentNameByKey(entries, selectedKey), [entries, selectedKey]);
 
   useEffect(() => {
     setLoading(false);
   }, []);
+
+  useEffect(() => {
+    if (typeof window === "undefined") return;
+
+    const params = new URLSearchParams(window.location.search);
+    const keyFromQuery = (params.get("key") ?? "").trim();
+
+    if (!keyFromQuery || !keys.includes(keyFromQuery)) return;
+    setSelectedKey(keyFromQuery);
+  }, [keys]);
 
   useEffect(() => {
     setSelectedLanguage("");
@@ -43,7 +60,7 @@ export const ManualSelectorCard = () => {
   return (
     <div className="w-full max-w-2xl rounded-2xl bg-white p-6 shadow-xl sm:p-8">
       <div className="mb-6 flex justify-center">
-        <img src="/gea-logo.svg" alt="GEA Logo" className="h-12 w-auto sm:h-14" />
+        <img src="/gea-logo.jpg" alt="GEA Logo" className="h-12 w-auto sm:h-14" />
       </div>
       <h1 className="mb-2 text-2xl font-semibold text-slate-900 sm:text-3xl">Bedienungsanleitungen finden</h1>
       <p className="mb-6 text-sm text-slate-600 sm:text-base">
@@ -71,6 +88,20 @@ export const ManualSelectorCard = () => {
                 </option>
               ))}
             </select>
+          </div>
+
+          <div>
+            <label htmlFor="component-name" className="mb-2 block text-sm font-medium text-slate-700">
+              Komponentenname
+            </label>
+            <input
+              id="component-name"
+              type="text"
+              value={componentName || "Bitte zuerst einen Schlüssel auswählen"}
+              readOnly
+              disabled
+              className="h-12 w-full rounded-lg border border-slate-300 px-4 text-base text-slate-600 focus:outline-none disabled:cursor-not-allowed disabled:bg-slate-100"
+            />
           </div>
 
           <div>
