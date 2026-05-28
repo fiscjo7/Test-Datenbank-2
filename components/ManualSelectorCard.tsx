@@ -43,6 +43,10 @@ export const ManualSelectorCard = () => {
 
   useEffect(() => {
     setSelectedLanguage("");
+    if (!selectedKey) {
+      setErrorMessage("Kein Schlüssel gesetzt. Bitte die Seite mit ?key=... öffnen.");
+      return;
+    }
     if (selectedKey && languages.length === 0) {
       setErrorMessage("Für den gewählten Schlüssel sind keine Sprachen verfügbar.");
       return;
@@ -78,39 +82,6 @@ export const ManualSelectorCard = () => {
         <div className="rounded-lg border border-slate-200 bg-slate-50 p-4 text-slate-700">Daten werden geladen…</div>
       ) : (
         <div className="space-y-4">
-          <div className="hidden">
-            <label htmlFor="key-select" className="mb-2 block text-sm font-medium text-slate-700">
-              SCHLUESSEL_BA_M
-            </label>
-            <select
-              id="key-select"
-              value={selectedKey}
-              onChange={(event) => setSelectedKey(event.target.value)}
-              className="h-12 w-full rounded-lg border border-slate-300 px-4 text-base focus:border-blue-500 focus:outline-none"
-            >
-              <option value="">Bitte auswählen</option>
-              {keys.map((key) => (
-                <option key={key} value={key}>
-                  {key}
-                </option>
-              ))}
-            </select>
-          </div>
-
-          <div>
-            <label htmlFor="component-name" className="mb-2 block text-sm font-medium text-slate-700">
-              Komponentenname
-            </label>
-            <input
-              id="component-name"
-              type="text"
-              value={componentName || "Bitte zuerst einen Schlüssel auswählen"}
-              readOnly
-              disabled
-              className="h-12 w-full rounded-lg border border-slate-300 px-4 text-base text-slate-600 focus:outline-none disabled:cursor-not-allowed disabled:bg-slate-100"
-            />
-          </div>
-
           <div>
             <label htmlFor="language-select" className="mb-2 block text-sm font-medium text-slate-700">
               Sprache
