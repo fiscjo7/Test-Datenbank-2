@@ -28,10 +28,15 @@ export const ManualSelectorCard = () => {
     if (typeof window === "undefined") return;
 
     const params = new URLSearchParams(window.location.search);
-    const keyFromQuery = (params.get("key") ?? "").trim();
+    const fromQuery = (params.get("key") ?? "").trim();
+    const fromHash = window.location.hash.replace(/^#/, "").trim();
+    const segments = window.location.pathname.split("/").filter(Boolean);
+    const fromPath = (segments.at(-1) ?? "").trim();
 
-    if (!keyFromQuery || !keys.includes(keyFromQuery)) return;
-    setSelectedKey(keyFromQuery);
+    const candidate = [fromQuery, fromHash, fromPath].find((value) => /^\d+$/.test(value)) ?? "";
+    if (!candidate || !keys.includes(candidate)) return;
+
+    setSelectedKey(candidate);
   }, [keys]);
 
   useEffect(() => {
