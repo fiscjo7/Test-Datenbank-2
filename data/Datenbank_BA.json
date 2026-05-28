@@ -1,23 +1,3684 @@
 [
   {
     "merkmal": "SCHLUESSEL_BA_M",
-    "schluessel_ba_m": 1006,
+    "schluessel_ba_m": "5019",
+    "sprache": "HU",
+    "link": "https://www.gea.com/en/assets/353193/",
+    "komponentenname": "TVIS M20"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0004L",
+    "sprache": "FR",
+    "link": "https://www.gea.com/en/assets/351315/",
+    "komponentenname": "Doppelsitzventil Typ D m. Lift"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0004L",
+    "sprache": "ES",
+    "link": "https://www.gea.com/en/assets/351314/",
+    "komponentenname": "Doppelsitzventil Typ D m. Lift"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0004L",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/351313/",
+    "komponentenname": "Doppelsitzventil Typ D m. Lift"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0004L",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/351312/",
+    "komponentenname": "Doppelsitzventil Typ D m. Lift"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0011",
+    "sprache": "RU",
+    "link": "https://www.gea.com/en/assets/348671/",
+    "komponentenname": "Doppelsitzventil Typ R"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "5022",
+    "sprache": "FR",
+    "link": "https://www.gea.com/en/assets/347665/",
+    "komponentenname": "TVIS E20"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0108S",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/344638/",
+    "komponentenname": "PMO Ventil M 2.0 Spreizlift"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0108S",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/344637/",
+    "komponentenname": "PMO Ventil M 2.0 Spreizlift"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11041",
+    "sprache": "FR",
+    "link": "https://www.gea.com/en/assets/340543/",
+    "komponentenname": "Turbo SSB GEA"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "5002",
+    "sprache": "HU",
+    "link": "https://www.gea.com/en/assets/340048/",
+    "komponentenname": "TVIS VESTA TV1"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11041",
+    "sprache": "HU",
+    "link": "https://www.gea.com/en/assets/340044/",
+    "komponentenname": "Turbo SSB GEA"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0005",
+    "sprache": "HU",
+    "link": "https://www.gea.com/en/assets/339801/",
+    "komponentenname": "Probenahmeventil Typ I"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0013",
+    "sprache": "HU",
+    "link": "https://www.gea.com/en/assets/339800/",
+    "komponentenname": "Doppelsitzventil Typ T"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "4009",
+    "sprache": "HU",
+    "link": "https://www.gea.com/en/assets/339798/",
+    "komponentenname": "T-smart TS9"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0015",
+    "sprache": "HU",
+    "link": "https://www.gea.com/en/assets/339785/",
+    "komponentenname": "Vakuumventil Typ V"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "1004",
+    "sprache": "HU",
+    "link": "https://www.gea.com/en/assets/339782/",
+    "komponentenname": "Regelventil S (ab 2015)"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0024",
+    "sprache": "HU",
+    "link": "https://www.gea.com/en/assets/339781/",
+    "komponentenname": "Regelventil Typ P"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0022",
+    "sprache": "HU",
+    "link": "https://www.gea.com/en/assets/339780/",
+    "komponentenname": "Sicherheitsventil 488 Leser"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "5017",
+    "sprache": "HU",
+    "link": "https://www.gea.com/en/assets/339778/",
+    "komponentenname": "TVIS P15"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11004",
+    "sprache": "ZH",
+    "link": "https://www.gea.com/en/assets/339090/",
+    "komponentenname": "Reiniger Jumbo GEA"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11004",
+    "sprache": "ES",
+    "link": "https://www.gea.com/en/assets/339089/",
+    "komponentenname": "Reiniger Jumbo GEA"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11030",
+    "sprache": "ZH",
+    "link": "https://www.gea.com/en/assets/339085/",
+    "komponentenname": "Reiniger Fury 404 GEA"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11030",
+    "sprache": "ES",
+    "link": "https://www.gea.com/en/assets/339084/",
+    "komponentenname": "Reiniger Fury 404 GEA"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11030",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/339083/",
+    "komponentenname": "Reiniger Fury 404 GEA"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11030",
+    "sprache": "ZH",
+    "link": "https://www.gea.com/en/assets/339081/",
+    "komponentenname": "Reiniger Fury 404 GEA"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11030",
+    "sprache": "ES",
+    "link": "https://www.gea.com/en/assets/339078/",
+    "komponentenname": "Reiniger Fury 404 GEA"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0024",
+    "sprache": "RU",
+    "link": "https://www.gea.com/en/assets/339061/",
+    "komponentenname": "Regelventil Typ P"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11030",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/338522/",
+    "komponentenname": "Reiniger Fury 404 GEA"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "8200",
+    "sprache": "FR",
+    "link": "https://www.gea.com/en/assets/338505/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "8200",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/338503/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "8200",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/338502/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11041",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/329392/",
+    "komponentenname": "Turbo SSB GEA"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11041",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/329391/",
+    "komponentenname": "Turbo SSB GEA"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "1004",
+    "sprache": "CS",
+    "link": "https://www.gea.com/en/assets/324042/",
+    "komponentenname": "Regelventil S (ab 2015)"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "9000",
+    "sprache": "FR",
+    "link": "https://www.gea.com/en/assets/323739/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "8500",
+    "sprache": "FR",
+    "link": "https://www.gea.com/en/assets/323738/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0016",
+    "sprache": "DA",
+    "link": "https://www.gea.com/en/assets/323477/",
+    "komponentenname": "Wechselventil Typ W und X"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "5017",
+    "sprache": "DA",
+    "link": "https://www.gea.com/en/assets/323469/",
+    "komponentenname": "TVIS P15"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "4009",
+    "sprache": "DA",
+    "link": "https://www.gea.com/en/assets/323391/",
+    "komponentenname": "T-smart TS9"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "8501",
+    "sprache": "PL",
+    "link": "https://www.gea.com/en/assets/316918/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11023",
+    "sprache": "PL",
+    "link": "https://www.gea.com/en/assets/313792/",
+    "komponentenname": "RT Orbital Ex GEA"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0034",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/312262/",
+    "komponentenname": "Doppelsitzventil R mit Lift"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "3007",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/312261/",
+    "komponentenname": "VESTA XL Kunststoffantrieb"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "3007",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/312260/",
+    "komponentenname": "VESTA XL Kunststoffantrieb"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "3004",
+    "sprache": "FI",
+    "link": "https://www.gea.com/en/assets/309534/",
+    "komponentenname": "VESTA H Probenahme"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "3004",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/309533/",
+    "komponentenname": "VESTA H Probenahme"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0016",
+    "sprache": "FI",
+    "link": "https://www.gea.com/en/assets/309531/",
+    "komponentenname": "Wechselventil Typ W und X"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0003",
+    "sprache": "FI",
+    "link": "https://www.gea.com/en/assets/309528/",
+    "komponentenname": "Doppeldichtventil Typ C"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "1004",
+    "sprache": "FI",
+    "link": "https://www.gea.com/en/assets/309498/",
+    "komponentenname": "Regelventil S (ab 2015)"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "4007",
+    "sprache": "FI",
+    "link": "https://www.gea.com/en/assets/309489/",
+    "komponentenname": "T-smart TS7"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "8002E",
+    "sprache": "FI",
+    "link": "https://www.gea.com/en/assets/309486/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "3004",
+    "sprache": "IT",
+    "link": "https://www.gea.com/en/assets/309372/",
+    "komponentenname": "VESTA H Probenahme"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "3010",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/309371/",
+    "komponentenname": "VESTA XL Tankboden T"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "3010",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/309370/",
+    "komponentenname": "VESTA XL Tankboden T"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "8002",
+    "sprache": "SL",
+    "link": "https://www.gea.com/en/assets/308250/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0009R",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/306019/",
+    "komponentenname": "Absperrventil Typ U_R"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0009R",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/305726/",
+    "komponentenname": "Absperrventil Typ U_R"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11018",
+    "sprache": "PL",
+    "link": "https://www.gea.com/en/assets/303471/",
+    "komponentenname": "Reiniger Turbodisc GEA"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11018",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/303470/",
+    "komponentenname": "Reiniger Turbodisc GEA"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11039",
+    "sprache": "ES",
+    "link": "https://www.gea.com/en/assets/302847/",
+    "komponentenname": "ATEX Rot. GEA"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "5024",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/301085/",
+    "komponentenname": "Zweistufenzyl. mit TVIS A15"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "5024",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/301084/",
+    "komponentenname": "Zweistufenzyl. mit TVIS A15"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "1002N",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/300893/",
+    "komponentenname": "ECOVENT N DN25-100"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "5023",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/300635/",
+    "komponentenname": "Zweistufenzyl. mit TVIS M20"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "5023",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/300634/",
+    "komponentenname": "Zweistufenzyl. mit TVIS M20"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0016R",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/298073/",
+    "komponentenname": "Wechselventil Typ X_R"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0016R",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/298072/",
+    "komponentenname": "Wechselventil Typ X_R"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0033D",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/298039/",
+    "komponentenname": "PMO-Tankbodenventil Spreizlift"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "1002N",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/297713/",
+    "komponentenname": "ECOVENT N DN25-100"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0033D",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/297709/",
+    "komponentenname": "PMO-Tankbodenventil Spreizlift"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "5022",
+    "sprache": "ZH",
+    "link": "https://www.gea.com/en/assets/297706/",
+    "komponentenname": "TVIS E20"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "5022",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/297705/",
+    "komponentenname": "TVIS E20"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "5022",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/297704/",
+    "komponentenname": "TVIS E20"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0005",
+    "sprache": "FR",
+    "link": "https://www.gea.com/en/assets/295652/",
+    "komponentenname": "Probenahmeventil Typ I"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0005",
+    "sprache": "PT",
+    "link": "https://www.gea.com/en/assets/295651/",
+    "komponentenname": "Probenahmeventil Typ I"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0005",
+    "sprache": "ES",
+    "link": "https://www.gea.com/en/assets/289351/",
+    "komponentenname": "Probenahmeventil Typ I"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "3004",
+    "sprache": "ES",
+    "link": "https://www.gea.com/en/assets/289349/",
+    "komponentenname": "VESTA H Probenahme"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "3001",
+    "sprache": "ES",
+    "link": "https://www.gea.com/en/assets/289281/",
+    "komponentenname": "VESTA H"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0005",
+    "sprache": "RO",
+    "link": "https://www.gea.com/en/assets/286480/",
+    "komponentenname": "Probenahmeventil Typ I"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "4007",
+    "sprache": "RO",
+    "link": "https://www.gea.com/en/assets/286479/",
+    "komponentenname": "T-smart TS7"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "1004",
+    "sprache": "RO",
+    "link": "https://www.gea.com/en/assets/286478/",
+    "komponentenname": "Regelventil S (ab 2015)"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "5104",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/285774/",
+    "komponentenname": "Stellungsregler 3730-4"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "5104",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/285770/",
+    "komponentenname": "Stellungsregler 3730-4"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0005",
+    "sprache": "PL",
+    "link": "https://www.gea.com/en/assets/284412/",
+    "komponentenname": "Probenahmeventil Typ I"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "4009",
+    "sprache": "PL",
+    "link": "https://www.gea.com/en/assets/284411/",
+    "komponentenname": "T-smart TS9"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "1004",
+    "sprache": "LT",
+    "link": "https://www.gea.com/en/assets/284215/",
+    "komponentenname": "Regelventil S (ab 2015)"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "4007",
+    "sprache": "LT",
+    "link": "https://www.gea.com/en/assets/284214/",
+    "komponentenname": "T-smart TS7"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0034",
+    "sprache": "LT",
+    "link": "https://www.gea.com/en/assets/284205/",
+    "komponentenname": "Doppelsitzventil R mit Lift"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0011",
+    "sprache": "PL",
+    "link": "https://www.gea.com/en/assets/283358/",
+    "komponentenname": "Doppelsitzventil Typ R"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "3004",
+    "sprache": "PL",
+    "link": "https://www.gea.com/en/assets/283353/",
+    "komponentenname": "VESTA H Probenahme"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "1004",
+    "sprache": "PL",
+    "link": "https://www.gea.com/en/assets/283255/",
+    "komponentenname": "Regelventil S (ab 2015)"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0016",
+    "sprache": "PL",
+    "link": "https://www.gea.com/en/assets/283242/",
+    "komponentenname": "Wechselventil Typ W und X"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "8500",
+    "sprache": "PL",
+    "link": "https://www.gea.com/en/assets/283107/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0038",
+    "sprache": "PL",
+    "link": "https://www.gea.com/en/assets/283086/",
+    "komponentenname": "Molch-Doppelsitz Typ L_L/C"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "5016",
+    "sprache": "PL",
+    "link": "https://www.gea.com/en/assets/283085/",
+    "komponentenname": "TVIS A15"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "4007",
+    "sprache": "SR",
+    "link": "https://www.gea.com/en/assets/282598/",
+    "komponentenname": "T-smart TS7"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11014",
+    "sprache": "PL",
+    "link": "https://www.gea.com/en/assets/282225/",
+    "komponentenname": "Reiniger CTTTTT4 GEA"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11020",
+    "sprache": "PL",
+    "link": "https://www.gea.com/en/assets/282225/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11025",
+    "sprache": "PL",
+    "link": "https://www.gea.com/en/assets/282225/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11025",
+    "sprache": "PL",
+    "link": "https://www.gea.com/en/assets/282225/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "8002",
+    "sprache": "PL",
+    "link": "https://www.gea.com/en/assets/282223/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "5002",
+    "sprache": "PT",
+    "link": "https://www.gea.com/en/assets/282083/",
+    "komponentenname": "TVIS VESTA TV1"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "5002",
+    "sprache": "RU",
+    "link": "https://www.gea.com/en/assets/282078/",
+    "komponentenname": "TVIS VESTA TV1"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0108",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/281541/",
+    "komponentenname": "PMO-Doppelsitzventil Typ M 2.0"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "5019",
+    "sprache": "ZH",
+    "link": "https://www.gea.com/en/assets/275788/",
+    "komponentenname": "TVIS M20"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0109",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/275787/",
+    "komponentenname": "Doppelsitzventil Typ MX"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0109",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/275786/",
+    "komponentenname": "Doppelsitzventil Typ MX"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "5019",
+    "sprache": "PL",
+    "link": "https://www.gea.com/en/assets/273227/",
+    "komponentenname": "TVIS M20"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0024",
+    "sprache": "FR",
+    "link": "https://www.gea.com/en/assets/272453/",
+    "komponentenname": "Regelventil Typ P"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0024",
+    "sprache": "ES",
+    "link": "https://www.gea.com/en/assets/272452/",
+    "komponentenname": "Regelventil Typ P"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0024",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/272448/",
+    "komponentenname": "Regelventil Typ P"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "5019",
+    "sprache": "NL",
+    "link": "https://www.gea.com/en/assets/272393/",
+    "komponentenname": "TVIS M20"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "9000",
+    "sprache": "PL",
+    "link": "https://www.gea.com/en/assets/272388/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0024",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/272169/",
+    "komponentenname": "Regelventil Typ P"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "5019",
+    "sprache": "RU",
+    "link": "https://www.gea.com/en/assets/269979/",
+    "komponentenname": "TVIS M20"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "5019",
+    "sprache": "PT",
+    "link": "https://www.gea.com/en/assets/269978/",
+    "komponentenname": "TVIS M20"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "5019",
+    "sprache": "IT",
+    "link": "https://www.gea.com/en/assets/269977/",
+    "komponentenname": "TVIS M20"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "5019",
+    "sprache": "FR",
+    "link": "https://www.gea.com/en/assets/269976/",
+    "komponentenname": "TVIS M20"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "5019",
+    "sprache": "ES",
+    "link": "https://www.gea.com/en/assets/269975/",
+    "komponentenname": "TVIS M20"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "5020",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/269506/",
+    "komponentenname": "TVIS M20 FDD"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "5020",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/269505/",
+    "komponentenname": "TVIS M20 FDD"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "5019",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/269504/",
+    "komponentenname": "TVIS M20"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "5019",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/269502/",
+    "komponentenname": "TVIS M20"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "8002E",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/269099/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "8002E",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/269098/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "8002",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/269096/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11023",
+    "sprache": "ES",
+    "link": "https://www.gea.com/en/assets/269042/",
+    "komponentenname": "RT Orbital Ex GEA"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0108",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/268687/",
+    "komponentenname": "PMO-Doppelsitzventil Typ M 2.0"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0108",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/268686/",
+    "komponentenname": "PMO-Doppelsitzventil Typ M 2.0"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0011",
+    "sprache": "PT",
+    "link": "https://www.gea.com/en/assets/268550/",
+    "komponentenname": "Doppelsitzventil Typ R"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0034",
+    "sprache": "PT",
+    "link": "https://www.gea.com/en/assets/268545/",
+    "komponentenname": "Doppelsitzventil R mit Lift"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0006",
+    "sprache": "PT",
+    "link": "https://www.gea.com/en/assets/267790/",
+    "komponentenname": "Doppelsitzventil Typ K"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0018",
+    "sprache": "PT",
+    "link": "https://www.gea.com/en/assets/267785/",
+    "komponentenname": "Doppelsitz-Wechselventil Typ Y"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0016",
+    "sprache": "PT",
+    "link": "https://www.gea.com/en/assets/267773/",
+    "komponentenname": "Wechselventil Typ W und X"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "5021",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/266775/",
+    "komponentenname": "LoTo"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "5021",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/266774/",
+    "komponentenname": "LoTo"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "4009",
+    "sprache": "SL",
+    "link": "https://www.gea.com/en/assets/266564/",
+    "komponentenname": "T-smart TS9"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11023",
+    "sprache": "ZH",
+    "link": "https://www.gea.com/en/assets/266357/",
+    "komponentenname": "RT Orbital Ex GEA"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0002",
+    "sprache": "FR",
+    "link": "https://www.gea.com/en/assets/266130/",
+    "komponentenname": "Doppelsitzventil Typ B"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0002",
+    "sprache": "ES",
+    "link": "https://www.gea.com/en/assets/266129/",
+    "komponentenname": "Doppelsitzventil Typ B"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "5016",
+    "sprache": "ZH",
+    "link": "https://www.gea.com/en/assets/265803/",
+    "komponentenname": "TVIS A15"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11014",
+    "sprache": "ZH",
+    "link": "https://www.gea.com/en/assets/265521/",
+    "komponentenname": "Reiniger CTTTTT4 GEA"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11019",
+    "sprache": "ZH",
+    "link": "https://www.gea.com/en/assets/265521/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11020",
+    "sprache": "ZH",
+    "link": "https://www.gea.com/en/assets/265521/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11025",
+    "sprache": "ZH",
+    "link": "https://www.gea.com/en/assets/265521/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11025",
+    "sprache": "ZH",
+    "link": "https://www.gea.com/en/assets/265521/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11039",
+    "sprache": "PL",
+    "link": "https://www.gea.com/en/assets/265348/",
+    "komponentenname": "ATEX Rot. GEA"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "5116",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/265097/",
+    "komponentenname": "Stellungsregler TROVIS 3730-3"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "5116",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/265091/",
+    "komponentenname": "Stellungsregler TROVIS 3730-3"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "5115",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/265088/",
+    "komponentenname": "Stellungsregler TROVIS 3730-1"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "5115",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/265087/",
+    "komponentenname": "Stellungsregler TROVIS 3730-1"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11014",
+    "sprache": "ES",
+    "link": "https://www.gea.com/en/assets/264782/",
+    "komponentenname": "Reiniger CTTTTT4 GEA"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11019",
+    "sprache": "#VALUE!",
+    "link": "https://www.gea.com/en/assets//",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11020",
+    "sprache": "#VALUE!",
+    "link": "https://www.gea.com/en/assets//",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11025",
+    "sprache": "#VALUE!",
+    "link": "https://www.gea.com/en/assets//",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11025",
+    "sprache": "#VALUE!",
+    "link": "https://www.gea.com/en/assets//",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11039",
+    "sprache": "FR",
+    "link": "https://www.gea.com/en/assets/264291/",
+    "komponentenname": "ATEX Rot. GEA"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11023",
+    "sprache": "RU",
+    "link": "https://www.gea.com/en/assets/264288/",
+    "komponentenname": "RT Orbital Ex GEA"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0013",
+    "sprache": "PT",
+    "link": "https://www.gea.com/en/assets/259183/",
+    "komponentenname": "Doppelsitzventil Typ T"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0013",
+    "sprache": "PL",
+    "link": "https://www.gea.com/en/assets/259180/",
+    "komponentenname": "Doppelsitzventil Typ T"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0013",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/259174/",
+    "komponentenname": "Doppelsitzventil Typ T"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "3003",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/259152/",
+    "komponentenname": "VESTA H Tankboden"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "3008",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/259150/",
+    "komponentenname": "VESTA XL Metallantrieb"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "3001",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/259142/",
+    "komponentenname": "VESTA H"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "5016",
+    "sprache": "NL",
+    "link": "https://www.gea.com/en/assets/259086/",
+    "komponentenname": "TVIS A15"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "1004",
+    "sprache": "SL",
+    "link": "https://www.gea.com/en/assets/258646/",
+    "komponentenname": "Regelventil S (ab 2015)"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0016",
+    "sprache": "NL",
+    "link": "https://www.gea.com/en/assets/258637/",
+    "komponentenname": "Wechselventil Typ W und X"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "4007",
+    "sprache": "SL",
+    "link": "https://www.gea.com/en/assets/255898/",
+    "komponentenname": "T-smart TS7"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0002L",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/252871/",
+    "komponentenname": "Doppelsitzventil Typ B m. Lift"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0004",
+    "sprache": "FR",
+    "link": "https://www.gea.com/en/assets/252756/",
+    "komponentenname": "Doppelsitzventil Typ D"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0004",
+    "sprache": "ES",
+    "link": "https://www.gea.com/en/assets/252753/",
+    "komponentenname": "Doppelsitzventil Typ D"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0033",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/252520/",
+    "komponentenname": "PMO-Tankbodenventil"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0016",
+    "sprache": "HU",
+    "link": "https://www.gea.com/en/assets/252510/",
+    "komponentenname": "Wechselventil Typ W und X"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "4007",
+    "sprache": "HU",
+    "link": "https://www.gea.com/en/assets/252507/",
+    "komponentenname": "T-smart TS7"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "8001",
+    "sprache": "RU",
+    "link": "https://www.gea.com/en/assets/251324/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11014",
+    "sprache": "RU",
+    "link": "https://www.gea.com/en/assets/251323/",
+    "komponentenname": "Reiniger CTTTTT4 GEA"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11019",
+    "sprache": "RU",
+    "link": "https://www.gea.com/en/assets/251323/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11020",
+    "sprache": "RU",
+    "link": "https://www.gea.com/en/assets/251323/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11025",
+    "sprache": "RU",
+    "link": "https://www.gea.com/en/assets/251323/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11025",
+    "sprache": "RU",
+    "link": "https://www.gea.com/en/assets/251323/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "4009",
+    "sprache": "EL",
+    "link": "https://www.gea.com/en/assets/250463/",
+    "komponentenname": "T-smart TS9"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "2001",
+    "sprache": "ES",
+    "link": "https://www.gea.com/en/assets/250294/",
+    "komponentenname": "STERICOM Typ N_08"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0016",
+    "sprache": "RU",
+    "link": "https://www.gea.com/en/assets/250233/",
+    "komponentenname": "Wechselventil Typ W und X"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "2001",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/250177/",
+    "komponentenname": "STERICOM Typ N_08"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0022",
+    "sprache": "RU",
+    "link": "https://www.gea.com/en/assets/249582/",
+    "komponentenname": "Sicherheitsventil 488 Leser"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0022",
+    "sprache": "PT",
+    "link": "https://www.gea.com/en/assets/249580/",
+    "komponentenname": "Sicherheitsventil 488 Leser"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0022",
+    "sprache": "PL",
+    "link": "https://www.gea.com/en/assets/249579/",
+    "komponentenname": "Sicherheitsventil 488 Leser"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0022",
+    "sprache": "FR",
+    "link": "https://www.gea.com/en/assets/249578/",
+    "komponentenname": "Sicherheitsventil 488 Leser"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0022",
+    "sprache": "ES",
+    "link": "https://www.gea.com/en/assets/249577/",
+    "komponentenname": "Sicherheitsventil 488 Leser"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0003",
+    "sprache": "RU+EN",
+    "link": "https://www.gea.com/en/assets/249462/",
+    "komponentenname": "Doppeldichtventil Typ C"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0022",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/249414/",
+    "komponentenname": "Sicherheitsventil 488 Leser"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0022",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/249409/",
+    "komponentenname": "Sicherheitsventil 488 Leser"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0023",
+    "sprache": "RU",
+    "link": "https://www.gea.com/en/assets/249399/",
+    "komponentenname": "Sicherheitsventil 483 Leser"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0023",
+    "sprache": "IT",
+    "link": "https://www.gea.com/en/assets/249398/",
+    "komponentenname": "Sicherheitsventil 483 Leser"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0023",
+    "sprache": "FR",
+    "link": "https://www.gea.com/en/assets/249397/",
+    "komponentenname": "Sicherheitsventil 483 Leser"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0023",
+    "sprache": "ES",
+    "link": "https://www.gea.com/en/assets/249396/",
+    "komponentenname": "Sicherheitsventil 483 Leser"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "5016",
+    "sprache": "RU",
+    "link": "https://www.gea.com/en/assets/248593/",
+    "komponentenname": "TVIS A15"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "5016",
+    "sprache": "PT",
+    "link": "https://www.gea.com/en/assets/248592/",
+    "komponentenname": "TVIS A15"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "5016",
+    "sprache": "IT",
+    "link": "https://www.gea.com/en/assets/248590/",
+    "komponentenname": "TVIS A15"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "5016",
+    "sprache": "FR",
+    "link": "https://www.gea.com/en/assets/248589/",
+    "komponentenname": "TVIS A15"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "5017",
+    "sprache": "ES",
+    "link": "https://www.gea.com/en/assets/247807/",
+    "komponentenname": "TVIS P15"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "5016",
+    "sprache": "ES",
+    "link": "https://www.gea.com/en/assets/247791/",
+    "komponentenname": "TVIS A15"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "1005",
     "sprache": "DE",
     "link": "https://www.gea.com/en/assets/247740/",
-    "komponentenname": "Homogenisator GEA Ariete"
+    "komponentenname": "D-tec Ventil Typ N"
   },
   {
     "merkmal": "SCHLUESSEL_BA_M",
-    "schluessel_ba_m": 1006,
+    "schluessel_ba_m": "1006",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/247740/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "1005",
     "sprache": "EN",
     "link": "https://www.gea.com/en/assets/247739/",
-    "komponentenname": "Homogenisator GEA Ariete"
+    "komponentenname": "D-tec Ventil Typ N"
   },
   {
     "merkmal": "SCHLUESSEL_BA_M",
-    "schluessel_ba_m": 2001,
+    "schluessel_ba_m": "1006",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/247739/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0032",
+    "sprache": "",
+    "link": "https://www.gea.com/en/assets/247534/",
+    "komponentenname": "PMO Cheese Curd Valve"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11021",
+    "sprache": "PT",
+    "link": "https://www.gea.com/en/assets/247249/",
+    "komponentenname": "Reiniger Troll Ball GEA"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11012",
+    "sprache": "PT",
+    "link": "https://www.gea.com/en/assets/247249/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11013",
+    "sprache": "PT",
+    "link": "https://www.gea.com/en/assets/247249/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11021",
+    "sprache": "FR",
+    "link": "https://www.gea.com/en/assets/247246/",
+    "komponentenname": "Reiniger Troll Ball GEA"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11012",
+    "sprache": "FR",
+    "link": "https://www.gea.com/en/assets/247246/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11013",
+    "sprache": "FR",
+    "link": "https://www.gea.com/en/assets/247246/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11021",
+    "sprache": "ES",
+    "link": "https://www.gea.com/en/assets/247245/",
+    "komponentenname": "Reiniger Troll Ball GEA"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11012",
+    "sprache": "ES",
+    "link": "https://www.gea.com/en/assets/247245/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11013",
+    "sprache": "ES",
+    "link": "https://www.gea.com/en/assets/247245/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "1010",
+    "sprache": "DA",
+    "link": "https://www.gea.com/en/assets/247237/",
+    "komponentenname": "D-tec Doppelkammerventil"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "1010",
+    "sprache": "ES",
+    "link": "https://www.gea.com/en/assets/247236/",
+    "komponentenname": "D-tec Doppelkammerventil"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "1010",
+    "sprache": "FR",
+    "link": "https://www.gea.com/en/assets/247235/",
+    "komponentenname": "D-tec Doppelkammerventil"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "1010",
     "sprache": "DE",
-    "link": "https://example.com/manuals/2001/de",
-    "komponentenname": "Separator GEA Westfalia"
+    "link": "https://www.gea.com/en/assets/247234/",
+    "komponentenname": "D-tec Doppelkammerventil"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "1010",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/247233/",
+    "komponentenname": "D-tec Doppelkammerventil"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11014",
+    "sprache": "FR",
+    "link": "https://www.gea.com/en/assets/247223/",
+    "komponentenname": "Reiniger CTTTTT4 GEA"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11019",
+    "sprache": "FR",
+    "link": "https://www.gea.com/en/assets/247223/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11020",
+    "sprache": "FR",
+    "link": "https://www.gea.com/en/assets/247223/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11025",
+    "sprache": "FR",
+    "link": "https://www.gea.com/en/assets/247223/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11025",
+    "sprache": "FR",
+    "link": "https://www.gea.com/en/assets/247223/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11023",
+    "sprache": "FR",
+    "link": "https://www.gea.com/en/assets/247222/",
+    "komponentenname": "RT Orbital Ex GEA"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11017",
+    "sprache": "DE+EN",
+    "link": "https://www.gea.com/en/assets/231794/",
+    "komponentenname": "Reiniger Turbo SSB 75 GEA"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11033",
+    "sprache": "DE+FR",
+    "link": "https://www.gea.com/en/assets/231792/",
+    "komponentenname": "Reiniger TURBO SSB 75 BW GEA"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11033",
+    "sprache": "DE+EN",
+    "link": "https://www.gea.com/en/assets/231791/",
+    "komponentenname": "Reiniger TURBO SSB 75 BW GEA"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11021",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/231779/",
+    "komponentenname": "Reiniger Troll Ball GEA"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11012",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/231779/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11013",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/231779/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11021",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/231778/",
+    "komponentenname": "Reiniger Troll Ball GEA"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11012",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/231778/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11013",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/231778/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11011",
+    "sprache": "PL+EN",
+    "link": "https://www.gea.com/en/assets/231777/",
+    "komponentenname": "Reiniger Torus GEA"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11039",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/231757/",
+    "komponentenname": "ATEX Rot. GEA"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11039",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/231756/",
+    "komponentenname": "ATEX Rot. GEA"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "8001",
+    "sprache": "FR",
+    "link": "https://www.gea.com/en/assets/231752/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "8001",
+    "sprache": "ES",
+    "link": "https://www.gea.com/en/assets/231751/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "8001",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/231750/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "8001",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/231749/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11023",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/231736/",
+    "komponentenname": "RT Orbital Ex GEA"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11023",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/231735/",
+    "komponentenname": "RT Orbital Ex GEA"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11004",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/231729/",
+    "komponentenname": "Reiniger Jumbo GEA"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11004",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/231728/",
+    "komponentenname": "Reiniger Jumbo GEA"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11035",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/231725/",
+    "komponentenname": "Reiniger Fury 602 GEA"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11035",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/231722/",
+    "komponentenname": "Reiniger Fury 602 GEA"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11030",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/231720/",
+    "komponentenname": "Reiniger Fury 404 GEA"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11030",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/231719/",
+    "komponentenname": "Reiniger Fury 404 GEA"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11003",
+    "sprache": "DE+EN",
+    "link": "https://www.gea.com/en/assets/231716/",
+    "komponentenname": "Reiniger Fury GEA"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11014",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/231698/",
+    "komponentenname": "Reiniger CTTTTT4 GEA"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11019",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/231698/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11020",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/231698/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11025",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/231698/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11014",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/231696/",
+    "komponentenname": "Reiniger CTTTTT4 GEA"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11019",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/231696/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11020",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/231696/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11025",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/231696/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11020",
+    "sprache": "PL+EN",
+    "link": "https://www.gea.com/en/assets/231686/",
+    "komponentenname": "Reiniger Typhoon GEA"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11020",
+    "sprache": "FR+EN",
+    "link": "https://www.gea.com/en/assets/231684/",
+    "komponentenname": "Reiniger Typhoon GEA"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11020",
+    "sprache": "DE+EN",
+    "link": "https://www.gea.com/en/assets/231683/",
+    "komponentenname": "Reiniger Typhoon GEA"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11019",
+    "sprache": "DE+EN",
+    "link": "https://www.gea.com/en/assets/231680/",
+    "komponentenname": "Reiniger Twister GEA"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11032",
+    "sprache": "DE+EN",
+    "link": "https://www.gea.com/en/assets/231677/",
+    "komponentenname": "Reiniger TURBO SSB 40 BW GEA"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11016",
+    "sprache": "DE+EN",
+    "link": "https://www.gea.com/en/assets/231675/",
+    "komponentenname": "Reiniger Turbo SSB 40 GEA"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11034",
+    "sprache": "DE+EN",
+    "link": "https://www.gea.com/en/assets/231673/",
+    "komponentenname": "Reiniger TURBO SSB 125 BW GEA"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11015",
+    "sprache": "DE+EN",
+    "link": "https://www.gea.com/en/assets/231672/",
+    "komponentenname": "Reiniger Turbo SSB 125 GEA"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11018",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/231669/",
+    "komponentenname": "Reiniger Turbodisc GEA"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11013",
+    "sprache": "DE+EN",
+    "link": "https://www.gea.com/en/assets/231666/",
+    "komponentenname": "Reiniger Troll 3\" GEA"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11012",
+    "sprache": "DE+EN",
+    "link": "https://www.gea.com/en/assets/231663/",
+    "komponentenname": "Reiniger Troll 2\" GEA"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11011",
+    "sprache": "DE+EN",
+    "link": "https://www.gea.com/en/assets/231660/",
+    "komponentenname": "Reiniger Torus GEA"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11009",
+    "sprache": "DE+EN",
+    "link": "https://www.gea.com/en/assets/231651/",
+    "komponentenname": "Reiniger Tornado GEA"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11008",
+    "sprache": "DE+EN",
+    "link": "https://www.gea.com/en/assets/231648/",
+    "komponentenname": "Reiniger Tempest GEA"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11007",
+    "sprache": "DE+EN",
+    "link": "https://www.gea.com/en/assets/231641/",
+    "komponentenname": "Reiniger Sanitor GEA"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11006",
+    "sprache": "DE+EN",
+    "link": "https://www.gea.com/en/assets/231638/",
+    "komponentenname": "Reiniger Sanidisc GEA"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11028",
+    "sprache": "DE+EN",
+    "link": "https://www.gea.com/en/assets/231635/",
+    "komponentenname": "Reiniger MA Jumbo GEA"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11027",
+    "sprache": "DE+EN",
+    "link": "https://www.gea.com/en/assets/231633/",
+    "komponentenname": "Reiniger MA Fury HP GEA"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11026",
+    "sprache": "DE+EN",
+    "link": "https://www.gea.com/en/assets/231631/",
+    "komponentenname": "Reiniger MA Fury GEA"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11036",
+    "sprache": "DE+EN",
+    "link": "https://www.gea.com/en/assets/231630/",
+    "komponentenname": "MA Fury 602 GEA"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11031",
+    "sprache": "DE+EN",
+    "link": "https://www.gea.com/en/assets/231629/",
+    "komponentenname": "MA Fury 404 GEA"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11025",
+    "sprache": "DE+EN",
+    "link": "https://www.gea.com/en/assets/231628/",
+    "komponentenname": "Reiniger Cyclone GEA"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11002",
+    "sprache": "DE+EN",
+    "link": "https://www.gea.com/en/assets/231627/",
+    "komponentenname": "Reiniger Clipdisc GEA"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11024",
+    "sprache": "DE+EN",
+    "link": "https://www.gea.com/en/assets/231625/",
+    "komponentenname": "Reiniger Chemitorus GEA"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "11001",
+    "sprache": "DE+EN",
+    "link": "https://www.gea.com/en/assets/231623/",
+    "komponentenname": "Reiniger Chemidisc GEA"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "8002",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/231621/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "7304",
+    "sprache": "(EN)",
+    "link": "https://www.gea.com/en/assets/231371/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0003",
+    "sprache": "DA+EN",
+    "link": "https://www.gea.com/en/assets/231161/",
+    "komponentenname": "Doppeldichtventil Typ C"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "6004",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/230863/",
+    "komponentenname": "Thermometer TTI"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "6004",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/230862/",
+    "komponentenname": "Thermometer TTI"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "6010",
+    "sprache": "DE+EN",
+    "link": "https://www.gea.com/en/assets/230851/",
+    "komponentenname": "Niveausonde TNS"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "5002",
+    "sprache": "DA+EN",
+    "link": "https://www.gea.com/en/assets/230849/",
+    "komponentenname": "TVIS VESTA TV1"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "5002",
+    "sprache": "PL",
+    "link": "https://www.gea.com/en/assets/230848/",
+    "komponentenname": "TVIS VESTA TV1"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "5002",
+    "sprache": "IT+EN",
+    "link": "https://www.gea.com/en/assets/230847/",
+    "komponentenname": "TVIS VESTA TV1"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "5002",
+    "sprache": "FR+EN",
+    "link": "https://www.gea.com/en/assets/230846/",
+    "komponentenname": "TVIS VESTA TV1"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "5002",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/230844/",
+    "komponentenname": "TVIS VESTA TV1"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "6002",
+    "sprache": "DE+EN",
+    "link": "https://www.gea.com/en/assets/230842/",
+    "komponentenname": "Schauglas TXI"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "6003",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/230841/",
+    "komponentenname": "Manometer TPI"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "9106",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/230839/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "9106",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/230838/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "5017",
+    "sprache": "RU",
+    "link": "https://www.gea.com/en/assets/230822/",
+    "komponentenname": "TVIS P15"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "5017",
+    "sprache": "PT",
+    "link": "https://www.gea.com/en/assets/230820/",
+    "komponentenname": "TVIS P15"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "5017",
+    "sprache": "IT",
+    "link": "https://www.gea.com/en/assets/230818/",
+    "komponentenname": "TVIS P15"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "5017",
+    "sprache": "FR",
+    "link": "https://www.gea.com/en/assets/230816/",
+    "komponentenname": "TVIS P15"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "5017",
+    "sprache": "PL",
+    "link": "https://www.gea.com/en/assets/230807/",
+    "komponentenname": "TVIS P15"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "5017",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/230806/",
+    "komponentenname": "TVIS P15"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "5017",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/230805/",
+    "komponentenname": "TVIS P15"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "5016",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/230776/",
+    "komponentenname": "TVIS A15"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "5016",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/230775/",
+    "komponentenname": "TVIS A15"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "5003",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/230763/",
+    "komponentenname": "TVIS VESTA TV20"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "5004",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/230761/",
+    "komponentenname": "TVIS VESTA TP1"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "6001",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/230730/",
+    "komponentenname": "InLine Gehäuse"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "8501E",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/230717/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "8501E",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/230716/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "8501",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/230714/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "8501",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/230713/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "8500E",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/230702/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "8500E",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/230701/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "8500",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/230700/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "8500",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/230699/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "4050",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/230674/",
+    "komponentenname": "TS7 - Zweistufenzylinder"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "4053",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/230673/",
+    "komponentenname": "TS7 - Hubbegrenz. + TVIS"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "4052",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/230672/",
+    "komponentenname": "TS7 - Hubbbegrenzung"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "4051",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/230671/",
+    "komponentenname": "TS7 - Stapelzylinder"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "4051",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/230670/",
+    "komponentenname": "TS7 - Stapelzylinder"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "4050",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/230669/",
+    "komponentenname": "TS7 - Zweistufenzylinder"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "4053",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/230668/",
+    "komponentenname": "TS7 - Hubbegrenz. + TVIS"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "4052",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/230667/",
+    "komponentenname": "TS7 - Hubbbegrenzung"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "4007",
+    "sprache": "RU",
+    "link": "https://www.gea.com/en/assets/230654/",
+    "komponentenname": "T-smart TS7"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "4007",
+    "sprache": "PT",
+    "link": "https://www.gea.com/en/assets/230653/",
+    "komponentenname": "T-smart TS7"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "4007",
+    "sprache": "NL",
+    "link": "https://www.gea.com/en/assets/230652/",
+    "komponentenname": "T-smart TS7"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "4007",
+    "sprache": "IT",
+    "link": "https://www.gea.com/en/assets/230651/",
+    "komponentenname": "T-smart TS7"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "4007",
+    "sprache": "FR",
+    "link": "https://www.gea.com/en/assets/230650/",
+    "komponentenname": "T-smart TS7"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "4007",
+    "sprache": "ES",
+    "link": "https://www.gea.com/en/assets/230649/",
+    "komponentenname": "T-smart TS7"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "4007",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/230648/",
+    "komponentenname": "T-smart TS7"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "4007",
+    "sprache": "EL",
+    "link": "https://www.gea.com/en/assets/230647/",
+    "komponentenname": "T-smart TS7"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "4007",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/230646/",
+    "komponentenname": "T-smart TS7"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "4007",
+    "sprache": "ZH",
+    "link": "https://www.gea.com/en/assets/230645/",
+    "komponentenname": "T-smart TS7"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "4007",
+    "sprache": "DA",
+    "link": "https://www.gea.com/en/assets/230615/",
+    "komponentenname": "T-smart TS7"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "4009",
+    "sprache": "RU",
+    "link": "https://www.gea.com/en/assets/230613/",
+    "komponentenname": "T-smart TS9"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "4009",
+    "sprache": "PT",
+    "link": "https://www.gea.com/en/assets/230612/",
+    "komponentenname": "T-smart TS9"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "4009",
+    "sprache": "NL",
+    "link": "https://www.gea.com/en/assets/230611/",
+    "komponentenname": "T-smart TS9"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "4009",
+    "sprache": "IT",
+    "link": "https://www.gea.com/en/assets/230610/",
+    "komponentenname": "T-smart TS9"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "4009",
+    "sprache": "FR",
+    "link": "https://www.gea.com/en/assets/230609/",
+    "komponentenname": "T-smart TS9"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "4009",
+    "sprache": "ES",
+    "link": "https://www.gea.com/en/assets/230608/",
+    "komponentenname": "T-smart TS9"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "4009",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/230607/",
+    "komponentenname": "T-smart TS9"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "4009",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/230606/",
+    "komponentenname": "T-smart TS9"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "4007",
+    "sprache": "CS",
+    "link": "https://www.gea.com/en/assets/230549/",
+    "komponentenname": "T-smart TS7"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "4007",
+    "sprache": "PL",
+    "link": "https://www.gea.com/en/assets/230545/",
+    "komponentenname": "T-smart TS7"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "4007",
+    "sprache": "HU",
+    "link": "https://www.gea.com/en/assets/230542/",
+    "komponentenname": "T-smart TS7"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0015",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/230474/",
+    "komponentenname": "Vakuumventil Typ V"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "1004",
+    "sprache": "RU",
+    "link": "https://www.gea.com/en/assets/230473/",
+    "komponentenname": "Regelventil S (ab 2015)"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "1004",
+    "sprache": "FR",
+    "link": "https://www.gea.com/en/assets/230472/",
+    "komponentenname": "Regelventil S (ab 2015)"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "1004",
+    "sprache": "ES",
+    "link": "https://www.gea.com/en/assets/230471/",
+    "komponentenname": "Regelventil S (ab 2015)"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "1004",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/230470/",
+    "komponentenname": "Regelventil S (ab 2015)"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "1004",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/230469/",
+    "komponentenname": "Regelventil S (ab 2015)"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0010",
+    "sprache": "FR",
+    "link": "https://www.gea.com/en/assets/230415/",
+    "komponentenname": "Überströmventil Typ Q"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0010",
+    "sprache": "ES",
+    "link": "https://www.gea.com/en/assets/230414/",
+    "komponentenname": "Überströmventil Typ Q"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0010",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/230413/",
+    "komponentenname": "Überströmventil Typ Q"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0010",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/230411/",
+    "komponentenname": "Überströmventil Typ Q"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0024",
+    "sprache": "PL",
+    "link": "https://www.gea.com/en/assets/230410/",
+    "komponentenname": "Regelventil Typ P"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0024",
+    "sprache": "NL",
+    "link": "https://www.gea.com/en/assets/230409/",
+    "komponentenname": "Regelventil Typ P"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "9001",
+    "sprache": "DE+RU",
+    "link": "https://www.gea.com/en/assets/230386/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "9001",
+    "sprache": "PT+EN",
+    "link": "https://www.gea.com/en/assets/230385/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "9001",
+    "sprache": "PL+EN",
+    "link": "https://www.gea.com/en/assets/230384/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "9001",
+    "sprache": "JA+EN",
+    "link": "https://www.gea.com/en/assets/230383/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "9001",
+    "sprache": "IT+EN",
+    "link": "https://www.gea.com/en/assets/230382/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "9001",
+    "sprache": "FR+EN",
+    "link": "https://www.gea.com/en/assets/230381/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "9001",
+    "sprache": "ES+EN",
+    "link": "https://www.gea.com/en/assets/230380/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "9001",
+    "sprache": "DE+EN",
+    "link": "https://www.gea.com/en/assets/230379/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0015",
+    "sprache": "PT",
+    "link": "https://www.gea.com/en/assets/230372/",
+    "komponentenname": "Vakuumventil Typ V"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0015",
+    "sprache": "PL",
+    "link": "https://www.gea.com/en/assets/230371/",
+    "komponentenname": "Vakuumventil Typ V"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0015",
+    "sprache": "NL",
+    "link": "https://www.gea.com/en/assets/230370/",
+    "komponentenname": "Vakuumventil Typ V"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0015",
+    "sprache": "FR",
+    "link": "https://www.gea.com/en/assets/230369/",
+    "komponentenname": "Vakuumventil Typ V"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0015",
+    "sprache": "ES",
+    "link": "https://www.gea.com/en/assets/230368/",
+    "komponentenname": "Vakuumventil Typ V"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0015",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/230367/",
+    "komponentenname": "Vakuumventil Typ V"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0015",
+    "sprache": "EL",
+    "link": "https://www.gea.com/en/assets/230366/",
+    "komponentenname": "Vakuumventil Typ V"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0015",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/230365/",
+    "komponentenname": "Vakuumventil Typ V"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0015",
+    "sprache": "NL",
+    "link": "https://www.gea.com/en/assets/230364/",
+    "komponentenname": "Vakuumventil Typ V"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0015",
+    "sprache": "FR",
+    "link": "https://www.gea.com/en/assets/230363/",
+    "komponentenname": "Vakuumventil Typ V"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0015",
+    "sprache": "PL",
+    "link": "https://www.gea.com/en/assets/230362/",
+    "komponentenname": "Vakuumventil Typ V"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0023",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/230359/",
+    "komponentenname": "Sicherheitsventil 483 Leser"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0023",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/230357/",
+    "komponentenname": "Sicherheitsventil 483 Leser"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0019",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/230344/",
+    "komponentenname": "Sicherheitsventil Hycom M&S"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0019",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/230343/",
+    "komponentenname": "Sicherheitsventil Hycom M&S"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0015",
+    "sprache": "DE+EN",
+    "link": "https://www.gea.com/en/assets/230342/",
+    "komponentenname": "Vakuumventil Typ V"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "1008",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/230330/",
+    "komponentenname": "Regelventil A (ab 2015)"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "1008",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/230329/",
+    "komponentenname": "Regelventil A (ab 2015)"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "1008",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/230310/",
+    "komponentenname": "Regelventil A (ab 2015)"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "1008",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/230309/",
+    "komponentenname": "Regelventil A (ab 2015)"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "1008",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/230308/",
+    "komponentenname": "Regelventil A (ab 2015)"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "1008",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/230307/",
+    "komponentenname": "Regelventil A (ab 2015)"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "1008",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/230306/",
+    "komponentenname": "Regelventil A (ab 2015)"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "1008",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/230305/",
+    "komponentenname": "Regelventil A (ab 2015)"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "1008",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/230304/",
+    "komponentenname": "Regelventil A (ab 2015)"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "1008",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/230303/",
+    "komponentenname": "Regelventil A (ab 2015)"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "5114",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/230272/",
+    "komponentenname": "Stellungsregler 3730-5"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "5114",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/230270/",
+    "komponentenname": "Stellungsregler 3730-5"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "5113",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/230218/",
+    "komponentenname": "Stellungsregler 3725"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "5113",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/230217/",
+    "komponentenname": "Stellungsregler 3725"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "1004S",
+    "sprache": "RU",
+    "link": "https://www.gea.com/en/assets/230213/",
+    "komponentenname": "Antrieb 3277 SAMSON"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "1004S",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/230205/",
+    "komponentenname": "Antrieb 3277 SAMSON"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "1004S",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/230201/",
+    "komponentenname": "Antrieb 3277 SAMSON"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0018",
+    "sprache": "NL",
+    "link": "https://www.gea.com/en/assets/230168/",
+    "komponentenname": "Doppelsitz-Wechselventil Typ Y"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0018",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/230167/",
+    "komponentenname": "Doppelsitz-Wechselventil Typ Y"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0018",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/230166/",
+    "komponentenname": "Doppelsitz-Wechselventil Typ Y"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0016",
+    "sprache": "FR",
+    "link": "https://www.gea.com/en/assets/230151/",
+    "komponentenname": "Wechselventil Typ W und X"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0016",
+    "sprache": "ES",
+    "link": "https://www.gea.com/en/assets/230150/",
+    "komponentenname": "Wechselventil Typ W und X"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0016",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/230149/",
+    "komponentenname": "Wechselventil Typ W und X"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0016",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/230148/",
+    "komponentenname": "Wechselventil Typ W und X"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0021",
+    "sprache": "PL+EN",
+    "link": "https://www.gea.com/en/assets/230147/",
+    "komponentenname": "Wechselventil W_R"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0021",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/230146/",
+    "komponentenname": "Wechselventil W_R"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0021",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/230145/",
+    "komponentenname": "Wechselventil W_R"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0013",
+    "sprache": "RU",
+    "link": "https://www.gea.com/en/assets/230143/",
+    "komponentenname": "Doppelsitzventil Typ T"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0013",
+    "sprache": "LT",
+    "link": "https://www.gea.com/en/assets/230141/",
+    "komponentenname": "Doppelsitzventil Typ T"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0013",
+    "sprache": "FR",
+    "link": "https://www.gea.com/en/assets/230140/",
+    "komponentenname": "Doppelsitzventil Typ T"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0013",
+    "sprache": "ES",
+    "link": "https://www.gea.com/en/assets/230138/",
+    "komponentenname": "Doppelsitzventil Typ T"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0013",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/230137/",
+    "komponentenname": "Doppelsitzventil Typ T"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0013",
+    "sprache": "DA+SV",
+    "link": "https://www.gea.com/en/assets/230136/",
+    "komponentenname": "Doppelsitzventil Typ T"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0034",
+    "sprache": "RU+EN",
+    "link": "https://www.gea.com/en/assets/230132/",
+    "komponentenname": "Doppelsitzventil R mit Lift"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0034",
+    "sprache": "PL+EN",
+    "link": "https://www.gea.com/en/assets/230131/",
+    "komponentenname": "Doppelsitzventil R mit Lift"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0034",
+    "sprache": "NL+EN",
+    "link": "https://www.gea.com/en/assets/230130/",
+    "komponentenname": "Doppelsitzventil R mit Lift"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0034",
+    "sprache": "LT+EN",
+    "link": "https://www.gea.com/en/assets/230129/",
+    "komponentenname": "Doppelsitzventil R mit Lift"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0034",
+    "sprache": "IT+EN",
+    "link": "https://www.gea.com/en/assets/230128/",
+    "komponentenname": "Doppelsitzventil R mit Lift"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0034",
+    "sprache": "FR",
+    "link": "https://www.gea.com/en/assets/230127/",
+    "komponentenname": "Doppelsitzventil R mit Lift"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0034",
+    "sprache": "ES",
+    "link": "https://www.gea.com/en/assets/230125/",
+    "komponentenname": "Doppelsitzventil R mit Lift"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0034",
+    "sprache": "DA+SV",
+    "link": "https://www.gea.com/en/assets/230123/",
+    "komponentenname": "Doppelsitzventil R mit Lift"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0034",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/230122/",
+    "komponentenname": "Doppelsitzventil R mit Lift"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0011",
+    "sprache": "FR",
+    "link": "https://www.gea.com/en/assets/230103/",
+    "komponentenname": "Doppelsitzventil Typ R"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0011",
+    "sprache": "ES",
+    "link": "https://www.gea.com/en/assets/230102/",
+    "komponentenname": "Doppelsitzventil Typ R"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0011",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/230101/",
+    "komponentenname": "Doppelsitzventil Typ R"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0011",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/230100/",
+    "komponentenname": "Doppelsitzventil Typ R"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "1007",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/230098/",
+    "komponentenname": "Pulverventil N_POW"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "1007",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/230097/",
+    "komponentenname": "Pulverventil N_POW"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "1001",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/230088/",
+    "komponentenname": "ECOVENT N/W DN10/15"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "1001",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/230087/",
+    "komponentenname": "ECOVENT N/W DN10/15"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0009",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/230050/",
+    "komponentenname": "Absperrventil Typ N und U"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0009",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/230049/",
+    "komponentenname": "Absperrventil Typ N und U"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "2001",
+    "sprache": "DE+RU",
+    "link": "https://www.gea.com/en/assets/230035/",
+    "komponentenname": "STERICOM Typ N_08"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "2001",
+    "sprache": "FR",
+    "link": "https://www.gea.com/en/assets/230034/",
+    "komponentenname": "STERICOM Typ N_08"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "2001",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/230033/",
+    "komponentenname": "STERICOM Typ N_08"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "2001",
+    "sprache": "DA+EN",
+    "link": "https://www.gea.com/en/assets/230032/",
+    "komponentenname": "STERICOM Typ N_08"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "2001",
+    "sprache": "IT+EN",
+    "link": "https://www.gea.com/en/assets/230031/",
+    "komponentenname": "STERICOM Typ N_08"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0033",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/230028/",
+    "komponentenname": "PMO-Tankbodenventil"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0108",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/230015/",
+    "komponentenname": "PMO-Doppelsitzventil Typ M 2.0"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0007",
+    "sprache": "HU",
+    "link": "https://www.gea.com/en/assets/230011/",
+    "komponentenname": "Molch-Doppelsitzventil Typ L"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0007",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/230010/",
+    "komponentenname": "Molch-Doppelsitzventil Typ L"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0007",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/230009/",
+    "komponentenname": "Molch-Doppelsitzventil Typ L"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0038",
+    "sprache": "RU+EN",
+    "link": "https://www.gea.com/en/assets/230008/",
+    "komponentenname": "Molch-Doppelsitz Typ L_L/C"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0006",
+    "sprache": "RU+EN",
+    "link": "https://www.gea.com/en/assets/230006/",
+    "komponentenname": "Doppelsitzventil Typ K"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0006",
+    "sprache": "PL",
+    "link": "https://www.gea.com/en/assets/230005/",
+    "komponentenname": "Doppelsitzventil Typ K"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0006",
+    "sprache": "NL+EN",
+    "link": "https://www.gea.com/en/assets/230004/",
+    "komponentenname": "Doppelsitzventil Typ K"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0006",
+    "sprache": "LT+EN",
+    "link": "https://www.gea.com/en/assets/230003/",
+    "komponentenname": "Doppelsitzventil Typ K"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0006",
+    "sprache": "JA+EN",
+    "link": "https://www.gea.com/en/assets/230002/",
+    "komponentenname": "Doppelsitzventil Typ K"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0006",
+    "sprache": "IT+EN",
+    "link": "https://www.gea.com/en/assets/230001/",
+    "komponentenname": "Doppelsitzventil Typ K"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0006",
+    "sprache": "FR",
+    "link": "https://www.gea.com/en/assets/230000/",
+    "komponentenname": "Doppelsitzventil Typ K"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0006",
+    "sprache": "ES",
+    "link": "https://www.gea.com/en/assets/229998/",
+    "komponentenname": "Doppelsitzventil Typ K"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0006",
+    "sprache": "DA+SV",
+    "link": "https://www.gea.com/en/assets/229997/",
+    "komponentenname": "Doppelsitzventil Typ K"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0006",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/229996/",
+    "komponentenname": "Doppelsitzventil Typ K"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0006",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/229995/",
+    "komponentenname": "Doppelsitzventil Typ K"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0004",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/229992/",
+    "komponentenname": "Doppelsitzventil Typ D"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0004",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/229991/",
+    "komponentenname": "Doppelsitzventil Typ D"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0003",
+    "sprache": "NL",
+    "link": "https://www.gea.com/en/assets/229973/",
+    "komponentenname": "Doppeldichtventil Typ C"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0003",
+    "sprache": "IT",
+    "link": "https://www.gea.com/en/assets/229972/",
+    "komponentenname": "Doppeldichtventil Typ C"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0003",
+    "sprache": "FR",
+    "link": "https://www.gea.com/en/assets/229971/",
+    "komponentenname": "Doppeldichtventil Typ C"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0003",
+    "sprache": "ES",
+    "link": "https://www.gea.com/en/assets/229970/",
+    "komponentenname": "Doppeldichtventil Typ C"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0003",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/229969/",
+    "komponentenname": "Doppeldichtventil Typ C"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0003",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/229968/",
+    "komponentenname": "Doppeldichtventil Typ C"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0003",
+    "sprache": "PT",
+    "link": "https://www.gea.com/en/assets/229967/",
+    "komponentenname": "Doppeldichtventil Typ C"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0003",
+    "sprache": "PL",
+    "link": "https://www.gea.com/en/assets/229966/",
+    "komponentenname": "Doppeldichtventil Typ C"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0003",
+    "sprache": "HU",
+    "link": "https://www.gea.com/en/assets/229965/",
+    "komponentenname": "Doppeldichtventil Typ C"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0003",
+    "sprache": "EL",
+    "link": "https://www.gea.com/en/assets/229964/",
+    "komponentenname": "Doppeldichtventil Typ C"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0002",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/229958/",
+    "komponentenname": "Doppelsitzventil Typ B"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0002",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/229957/",
+    "komponentenname": "Doppelsitzventil Typ B"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0002L",
+    "sprache": "FR",
+    "link": "https://www.gea.com/en/assets/229952/",
+    "komponentenname": "Doppelsitzventil Typ B m. Lift"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0002L",
+    "sprache": "ES",
+    "link": "https://www.gea.com/en/assets/229950/",
+    "komponentenname": "Doppelsitzventil Typ B m. Lift"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0002L",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/229949/",
+    "komponentenname": "Doppelsitzventil Typ B m. Lift"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0020",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/229936/",
+    "komponentenname": "Doppelsitz-Probenahme T_09"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0020",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/229935/",
+    "komponentenname": "Doppelsitz-Probenahme T_09"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0038",
+    "sprache": "HU",
+    "link": "https://www.gea.com/en/assets/229933/",
+    "komponentenname": "Molch-Doppelsitz Typ L_L/C"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0038",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/229932/",
+    "komponentenname": "Molch-Doppelsitz Typ L_L/C"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0038",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/229931/",
+    "komponentenname": "Molch-Doppelsitz Typ L_L/C"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "9000",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/229869/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "9000",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/229868/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "6101",
+    "sprache": "FR",
+    "link": "https://www.gea.com/en/assets/229865/",
+    "komponentenname": "Probenahme TSV N"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "6102",
+    "sprache": "FR",
+    "link": "https://www.gea.com/en/assets/229865/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "6103",
+    "sprache": "FR",
+    "link": "https://www.gea.com/en/assets/229865/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "6104",
+    "sprache": "FR",
+    "link": "https://www.gea.com/en/assets/229865/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "6101",
+    "sprache": "ES",
+    "link": "https://www.gea.com/en/assets/229864/",
+    "komponentenname": "Probenahme TSV N"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "6102",
+    "sprache": "ES",
+    "link": "https://www.gea.com/en/assets/229864/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "6103",
+    "sprache": "ES",
+    "link": "https://www.gea.com/en/assets/229864/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "6104",
+    "sprache": "ES",
+    "link": "https://www.gea.com/en/assets/229864/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "6101",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/229863/",
+    "komponentenname": "Probenahme TSV N"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "6102",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/229863/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "6103",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/229863/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "6104",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/229863/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "6101",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/229862/",
+    "komponentenname": "Probenahme TSV N"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "6102",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/229862/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "6103",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/229862/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "6104",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/229862/",
+    "komponentenname": "#N/A"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0005",
+    "sprache": "RU",
+    "link": "https://www.gea.com/en/assets/229856/",
+    "komponentenname": "Probenahmeventil Typ I"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0005",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/229855/",
+    "komponentenname": "Probenahmeventil Typ I"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0005",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/229854/",
+    "komponentenname": "Probenahmeventil Typ I"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "0017",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/229846/",
+    "komponentenname": "Flow Diversion Device FDD"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "1006",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/229777/",
+    "komponentenname": "D-tec Ventil Typ W"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "1006",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/229776/",
+    "komponentenname": "D-tec Ventil Typ W"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "1005",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/229768/",
+    "komponentenname": "D-tec Ventil Typ N"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "1005",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/229767/",
+    "komponentenname": "D-tec Ventil Typ N"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "3005",
+    "sprache": "DE+EN",
+    "link": "https://www.gea.com/en/assets/229695/",
+    "komponentenname": "VESTA H Block"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "3003",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/229694/",
+    "komponentenname": "VESTA H Tankboden"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "3003",
+    "sprache": "FR",
+    "link": "https://www.gea.com/en/assets/229693/",
+    "komponentenname": "VESTA H Tankboden"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "3003",
+    "sprache": "ES",
+    "link": "https://www.gea.com/en/assets/229692/",
+    "komponentenname": "VESTA H Tankboden"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "3001",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/229691/",
+    "komponentenname": "VESTA H"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "3006",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/229682/",
+    "komponentenname": "VESTAH Multiport"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "3006",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/229681/",
+    "komponentenname": "VESTAH Multiport"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "3004",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/229677/",
+    "komponentenname": "VESTA H Probenahme"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "3012",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/229675/",
+    "komponentenname": "VESTA XL Tankboden F"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "3012",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/229672/",
+    "komponentenname": "VESTA XL Tankboden F"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "3008",
+    "sprache": "EN",
+    "link": "https://www.gea.com/en/assets/229671/",
+    "komponentenname": "VESTA XL Metallantrieb"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "5002",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/229664/",
+    "komponentenname": "TVIS VESTA TV1"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "5017",
+    "sprache": "IT",
+    "link": "https://www.gea.com/en/assets/229653/",
+    "komponentenname": "TVIS P15"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "5017",
+    "sprache": "FR",
+    "link": "https://www.gea.com/en/assets/229651/",
+    "komponentenname": "TVIS P15"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "5003",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/229611/",
+    "komponentenname": "TVIS VESTA TV20"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "5004",
+    "sprache": "FI+EN",
+    "link": "https://www.gea.com/en/assets/229610/",
+    "komponentenname": "TVIS VESTA TP1"
+  },
+  {
+    "merkmal": "SCHLUESSEL_BA_M",
+    "schluessel_ba_m": "5004",
+    "sprache": "DE",
+    "link": "https://www.gea.com/en/assets/229609/",
+    "komponentenname": "TVIS VESTA TP1"
   }
 ]
