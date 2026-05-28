@@ -17,7 +17,7 @@ const uniqueSorted = (values) => [...new Set(values)].sort(sortLocale);
 
 const getPrefilledKeyFromUrl = () => {
   const params = new URLSearchParams(window.location.search);
-  const fromQuery = params.get("key") ?? "";
+  const fromQuery = (params.get("key") ?? "").trim();
   if (/^\d+$/.test(fromQuery)) return fromQuery;
 
   const hashValue = window.location.hash.replace(/^#/, "");
@@ -30,7 +30,7 @@ const getPrefilledKeyFromUrl = () => {
 
 const normalizeEntry = (raw) => ({
   key: String(raw.schluessel_ba_m),
-  componentName: String(raw.komponentenname),
+  componentName: String(raw.komponentenname ?? "").trim(),
   language: String(raw.sprache),
   url: String(raw.link),
 });
@@ -75,7 +75,7 @@ const handleKeyChange = () => {
     return;
   }
 
-  componentNameInput.value = getComponentNameByKey(key) || "";
+  componentNameInput.value = getComponentNameByKey(key) || "Kein Komponentenname hinterlegt";
 
   const languages = getLanguagesByKey(key);
   populateSelect(languageSelect, languages);
@@ -114,6 +114,8 @@ const init = async () => {
     if (prefilledKey && keys.includes(prefilledKey)) {
       keySelect.value = prefilledKey;
       handleKeyChange();
+    } else {
+      componentNameInput.value = "Bitte zuerst einen Schlüssel auswählen";
     }
 
     statusBox.classList.add("hidden");
