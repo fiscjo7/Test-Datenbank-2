@@ -3,25 +3,46 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Bedienungsanleitungen Finder</title>
+    <title>Bedienungsanleitungen</title>
     <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+    @font-face {
+      font-family: "GEA Sans";
+      src: url("./public/fonts/GEASans-Regular.woff2") format("woff2");
+    }
+
+    @font-face {
+      font-family: "Inter";
+      src: url("./public/fonts/Inter-Regular.woff2") format("woff2");
+    }
+
+    body {
+      font-family: "GEA Sans", sans-serif;
+    }
+
+    p,
+    label,
+    select {
+      font-family: "Inter", sans-serif;
+    }
+  </style>
   </head>
   <body class="min-h-screen bg-slate-100 text-slate-900">
     <main class="flex min-h-screen items-center justify-center p-4 sm:p-6">
       <section class="w-full max-w-2xl rounded-2xl bg-white p-6 shadow-xl sm:p-8">
 
         <div class="mb-6 flex justify-center">
-          <img src="./public/gea-logo.svg" alt="GEA Logo" class="h-12 w-auto sm:h-14" />
+          <img src="./public/gea-logo.jpg" alt="GEA Logo" class="h-12 w-auto sm:h-14" />
         </div>
-        <h1 class="mb-2 text-2xl font-semibold sm:text-3xl">Bedienungsanleitungen finden</h1>
-        <p class="mb-6 text-sm text-slate-600 sm:text-base">
-          Wähle einen Schlüssel und anschließend eine Sprache, um die passende Anleitung zu öffnen.
+        <h1 class="mb-2 text-center text-2xl font-semibold sm:text-3xl"> Betriebsanleitungen </h1>
+        <p class="mb-6 text-center text-slate-600 sm:text-base">
+          Bitte wähle eine Sprache, um die passende Anleitung zu öffnen.
         </p>
 
         <div id="status" class="mb-4 rounded-lg border border-slate-200 bg-slate-50 p-4 text-slate-700">Daten werden geladen…</div>
 
         <div id="controls" class="hidden space-y-4">
-          <div>
+          <div class="hidden">
             <label for="key-select" class="mb-2 block text-sm font-medium text-slate-700">SCHLUESSEL_BA_M</label>
             <select id="key-select" class="h-12 w-full rounded-lg border border-slate-300 px-4 text-base focus:border-blue-500 focus:outline-none">
               <option value="">Bitte auswählen</option>
@@ -35,7 +56,12 @@
             </select>
           </div>
 
-          <button id="open-button" type="button" disabled class="h-12 w-full rounded-lg bg-blue-600 px-6 text-base font-medium text-white transition hover:bg-blue-700 disabled:cursor-not-allowed disabled:bg-slate-400">
+          <button
+          id="open-button"
+          type="button"
+          disabled
+          class="h-12 w-full rounded-lg bg-[#1AFF80] px-6 text-base font-medium text-black transition hover:bg-[#14e66f] disabled:cursor-not-allowed disabled:bg-slate-400"
+          >
             Anleitung öffnen
           </button>
 
