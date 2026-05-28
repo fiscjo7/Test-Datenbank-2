@@ -1,13 +1,7 @@
 "use client";
 
 import { useEffect, useMemo, useState } from "react";
-import {
-  getComponentNameByKey,
-  getLanguagesByKey,
-  getManualData,
-  getUniqueSortedKeys,
-  getUrlBySelection,
-} from "@/services/manualService";
+import { getComponentNameByKey, getLanguagesByKey, getManualData, getUniqueSortedKeys, getUrlBySelection } from "@/services/manualService";
 
 export const ManualSelectorCard = () => {
   const [selectedKey, setSelectedKey] = useState("");
@@ -82,6 +76,20 @@ export const ManualSelectorCard = () => {
         <div className="rounded-lg border border-slate-200 bg-slate-50 p-4 text-slate-700">Daten werden geladen…</div>
       ) : (
         <div className="space-y-4">
+          <div>
+            <label htmlFor="component-name" className="mb-2 block text-sm font-medium text-slate-700">
+              Komponentenname
+            </label>
+            <input
+              id="component-name"
+              type="text"
+              value={selectedKey ? componentName || "Kein Komponentenname hinterlegt" : "Bitte zuerst einen Schlüssel auswählen"}
+              readOnly
+              disabled
+              className="h-12 w-full rounded-lg border border-slate-300 px-4 text-base text-slate-600 focus:outline-none disabled:cursor-not-allowed disabled:bg-slate-100"
+            />
+          </div>
+
           <div>
             <label htmlFor="language-select" className="mb-2 block text-sm font-medium text-slate-700">
               Sprache

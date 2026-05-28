@@ -1,7 +1,7 @@
 export interface RawManualEntry {
   merkmal: string;
   schluessel_ba_m: number | string;
-  komponentenname: string;
+  komponentenname?: string;
   sprache: string;
   link: string;
 }
