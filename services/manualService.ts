@@ -3,6 +3,7 @@ import { ManualEntry, RawManualEntry } from "@/types/manual";
 
 const toManualEntry = (entry: RawManualEntry): ManualEntry => ({
   key: String(entry.schluessel_ba_m),
+  componentName: String(entry.komponentenname ?? "").trim(),
   language: String(entry.sprache),
   url: String(entry.link),
 });
@@ -18,6 +19,9 @@ export const getLanguagesByKey = (entries: ManualEntry[], key: string): string[]
   [...new Set(entries.filter((entry) => entry.key === key).map((entry) => entry.language))].sort((a, b) =>
     a.localeCompare(b, "de")
   );
+
+export const getComponentNameByKey = (entries: ManualEntry[], key: string): string =>
+  entries.find((entry) => entry.key === key)?.componentName ?? "";
 
 export const getUrlBySelection = (entries: ManualEntry[], key: string, language: string): string | null => {
   const match = entries.find((entry) => entry.key === key && entry.language === language);

@@ -45,4 +45,4 @@ Beide Varianten wählen `SCHLUESSEL_BA_M` automatisch vor.
 
 ## Logo
 
-Das GEA-Logo wird mittig oben in der Karte angezeigt (`public/gea-logo.svg`).
+Das GEA-Logo wird mittig oben in der Karte angezeigt (`public/gea-logo.jpg`).
