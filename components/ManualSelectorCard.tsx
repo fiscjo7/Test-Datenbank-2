@@ -25,6 +25,16 @@ export const ManualSelectorCard = () => {
   }, []);
 
   useEffect(() => {
+    if (typeof window === "undefined") return;
+
+    const params = new URLSearchParams(window.location.search);
+    const keyFromQuery = (params.get("key") ?? "").trim();
+
+    if (!keyFromQuery || !keys.includes(keyFromQuery)) return;
+    setSelectedKey(keyFromQuery);
+  }, [keys]);
+
+  useEffect(() => {
     setSelectedLanguage("");
     if (selectedKey && languages.length === 0) {
       setErrorMessage("Für den gewählten Schlüssel sind keine Sprachen verfügbar.");
