@@ -18,7 +18,28 @@ export const ManualSelectorCard = () => {
   }, []);
 
   useEffect(() => {
+    if (typeof window === "undefined") {
+      return;
+    }
+
+    const url = new URL(window.location.href);
+    const urlKey = url.searchParams.get("key")?.trim();
+
+    if (!urlKey) {
+      return;
+    }
+
+    if (keys.includes(urlKey)) {
+      setSelectedKey(urlKey);
+    }
+  }, [keys]);
+
+  useEffect(() => {
     setSelectedLanguage("");
+    if (!selectedKey) {
+      setErrorMessage("Kein Schlüssel gesetzt. Bitte die Seite mit ?key=... öffnen.");
+      return;
+    }
     if (selectedKey && languages.length === 0) {
       setErrorMessage("Für den gewählten Schlüssel sind keine Sprachen verfügbar.");
       return;
@@ -47,32 +68,13 @@ export const ManualSelectorCard = () => {
       </div>
       <h1 className="mb-2 text-2xl font-semibold text-slate-900 sm:text-3xl">Bedienungsanleitungen finden</h1>
       <p className="mb-6 text-sm text-slate-600 sm:text-base">
-        Wähle einen Schlüssel und anschließend eine Sprache, um die passende Anleitung zu öffnen.
+        Der Schlüssel wird aus der URL übernommen. Wähle anschließend eine Sprache, um die passende Anleitung zu öffnen.
       </p>
 
       {loading ? (
         <div className="rounded-lg border border-slate-200 bg-slate-50 p-4 text-slate-700">Daten werden geladen…</div>
       ) : (
         <div className="space-y-4">
-          <div>
-            <label htmlFor="key-select" className="mb-2 block text-sm font-medium text-slate-700">
-              SCHLUESSEL_BA_M
-            </label>
-            <select
-              id="key-select"
-              value={selectedKey}
-              onChange={(event) => setSelectedKey(event.target.value)}
-              className="h-12 w-full rounded-lg border border-slate-300 px-4 text-base focus:border-blue-500 focus:outline-none"
-            >
-              <option value="">Bitte auswählen</option>
-              {keys.map((key) => (
-                <option key={key} value={key}>
-                  {key}
-                </option>
-              ))}
-            </select>
-          </div>
-
           <div>
             <label htmlFor="language-select" className="mb-2 block text-sm font-medium text-slate-700">
               Sprache
