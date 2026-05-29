@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useMemo, useState } from "react";
+import { LanguageSelector, type UiLanguage } from "@/components/LanguageSelector";
 import {
   getComponentNameByKey,
   getLanguagesByKey,
@@ -9,7 +10,35 @@ import {
   getUrlBySelection,
 } from "@/services/manualService";
 
+const translations: Record<UiLanguage, { title: string; description: string }> = {
+  de: {
+    title: "Betriebsanleitungen",
+    description: "Bitte wähle eine Sprache, um die passende Anleitung zu öffnen.",
+  },
+  en: {
+    title: "Operating instructions",
+    description: "Please select a language to open the appropriate manual.",
+  },
+  es: {
+    title: "Manuales de instrucciones",
+    description: "Selecciona un idioma para abrir el manual correspondiente.",
+  },
+  fr: {
+    title: "Modes d’emploi",
+    description: "Veuillez sélectionner une langue pour ouvrir le manuel correspondant.",
+  },
+  it: {
+    title: "Manuali d’uso",
+    description: "Seleziona una lingua per aprire il manuale corrispondente.",
+  },
+  nl: {
+    title: "Gebruiksaanwijzingen",
+    description: "Selecteer een taal om de juiste handleiding te openen.",
+  },
+};
+
 export const ManualSelectorCard = () => {
+  const [uiLanguage, setUiLanguage] = useState<UiLanguage>("de");
   const [selectedKey, setSelectedKey] = useState("");
   const [selectedLanguage, setSelectedLanguage] = useState("");
   const [loading, setLoading] = useState(true);
@@ -27,6 +56,8 @@ export const ManualSelectorCard = () => {
     () => getComponentNameByKey(entries, selectedKey),
     [entries, selectedKey]
   );
+
+  const translatedContent = translations[uiLanguage];
 
   useEffect(() => {
     setLoading(false);
@@ -91,20 +122,29 @@ export const ManualSelectorCard = () => {
 
   return (
     <div className="w-full max-w-2xl rounded-2xl bg-white p-6 font-['GEA_Sans'] shadow-xl sm:p-8">
-      <div className="mb-6 flex justify-center">
+      <div className="mb-6 grid gap-4 sm:grid-cols-[1fr_auto_1fr] sm:items-start">
+        <div className="hidden sm:block" aria-hidden="true" />
+
         <img
           src="/gea-logo.jpg"
           alt="GEA Logo"
-          className="h-12 w-auto sm:h-14"
+          className="mx-auto h-12 w-auto sm:h-14"
         />
+
+        <div className="sm:justify-self-end">
+          <LanguageSelector
+            activeLanguage={uiLanguage}
+            onLanguageChange={setUiLanguage}
+          />
+        </div>
       </div>
 
       <h1 className="mb-2 text-center text-2xl font-semibold text-slate-900 sm:text-3xl">
-        Betriebsanleitungen
+        {translatedContent.title}
       </h1>
 
       <p className="mb-6 font-['Inter'] text-center text-slate-600 sm:text-base">
-        Bitte wähle eine Sprache, um die passende Anleitung zu öffnen.
+        {translatedContent.description}
       </p>
 
       {loading ? (
